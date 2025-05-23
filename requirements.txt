@@ -8,3 +8,4 @@ gspread
 python-dotenv
 markdown
 Jinja2
+linkup-sdk==0.2.5

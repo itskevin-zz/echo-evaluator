@@ -1,163 +1,198 @@
 from typing import Dict, Any, Optional, List
 from langchain.chat_models import ChatOpenAI
-from tools.search_tool import search_tool
+from tools.linkup_search_tool import linkup_search_tool
 import logging
 import re
 
 # Define calibration examples for each dimension
 CALIBRATION_EXAMPLES = {
     "Founder Edge": {
-        0: [
+        1: [
             "Team of recent graduates with no industry experience",
             "Solo founder from unrelated industry (e.g., restaurant owner starting a SaaS company)",
             "Consultants with no direct experience in the space"
         ],
-        1: [
+        2: [
             "Product manager from adjacent industry",
             "Technical founder with general experience but no domain expertise",
             "Former junior employee at competitor"
         ],
-        2: [
+        3: [
             "Former VP of Product at target customer company",
             "Serial founder with success in adjacent space",
             "Domain expert with 10+ years experience"
         ],
-        3: [
+        4: [
             "Repeat founder who sold previous company in same space",
             "Former CTO of market leader starting competing product",
             "Founder with unique insight from running target customer company"
+        ],
+        5: [
+            "Legendary repeat founder with multiple exits in the same vertical",
+            "Ex-CEO of market leader with deep network and insight",
+            "Founder with rare, proprietary data or technology advantage"
         ]
     },
     "Novel Wedge": {
-        0: [
+        1: [
             "Direct copy of existing solution",
             "Minor UI improvements to existing product",
             "No clear differentiation from incumbents"
         ],
-        1: [
+        2: [
             "Incremental improvement on existing solution",
             "New interface but same underlying approach",
             "Cost advantage but no technical innovation"
         ],
-        2: [
+        3: [
             "Novel technical approach to known problem",
             "Unique go-to-market strategy in mature space",
             "New business model that reduces friction"
         ],
-        3: [
+        4: [
             "Revolutionary technology enabling new capabilities",
             "First to market with solution made possible by recent change",
             "Unique insight that transforms industry economics"
+        ],
+        5: [
+            "Category-defining innovation with no clear precedent",
+            "Breakthrough that redefines the market structure",
+            "Unmatched technical or business model leap"
         ]
     },
     "Customer Signal": {
-        0: [
+        1: [
             "No paying customers yet",
             "Only friends and family using product",
             "High churn rate with no retention"
         ],
-        1: [
+        2: [
             "Few pilot customers but no expansion",
             "Paying customers but slow growth",
             "Mixed customer feedback"
         ],
-        2: [
+        3: [
             "Strong retention metrics",
             "Rapid customer acquisition in target segment",
             "Clear evidence of product-market fit"
         ],
-        3: [
+        4: [
             "Viral adoption with negative CAC",
             "Industry leaders as reference customers",
             "Exceptional NPS with rapid expansion"
+        ],
+        5: [
+            "Explosive, category-leading growth with sustained retention",
+            "Multiple industry awards and best-in-class customer satisfaction",
+            "Dominant market share with organic, word-of-mouth expansion"
         ]
     },
     "Sales Motion": {
-        0: [
+        1: [
             "No repeatable sales process",
             "Random deals with no pattern",
             "No clear target customer profile"
         ],
-        1: [
+        2: [
             "Basic sales process but long cycles",
             "Some deals but high CAC",
             "Inconsistent win rates"
         ],
-        2: [
+        3: [
             "Efficient sales process with predictable pipeline",
             "Strong win rates in target segment",
             "Clear ICP with repeatable motion"
         ],
-        3: [
+        4: [
             "Viral product-led growth with negative CAC",
             "Highly efficient enterprise sales motion",
             "Perfect channel-market fit with rapid scaling"
+        ],
+        5: [
+            "Self-sustaining, viral sales engine with exponential growth",
+            "Industry benchmark for sales efficiency and scalability",
+            "Unmatched sales velocity and market penetration"
         ]
     },
     "Moat Potential": {
-        0: [
+        1: [
             "Easily replicable solution",
             "No proprietary technology",
             "No network effects or switching costs"
         ],
-        1: [
+        2: [
             "Basic technical barriers",
             "Some data advantage but not unique",
             "Moderate switching costs"
         ],
-        2: [
+        3: [
             "Strong network effects emerging",
             "Significant proprietary technology",
             "High switching costs with platform lock-in"
         ],
-        3: [
+        4: [
             "Dominant network effect with winner-take-all dynamics",
             "Revolutionary protected technology",
             "Ecosystem lock-in with high data barriers"
+        ],
+        5: [
+            "Unassailable market position with multiple reinforcing moats",
+            "Global standard with exclusive data and technology advantages",
+            "Virtually impossible for new entrants to compete"
         ]
     },
     "Investor Behavior": {
-        0: [
+        1: [
             "No institutional investors",
             "Only friends and family funding",
             "Unable to raise follow-on rounds"
         ],
-        1: [
+        2: [
             "Some angel investors but no leads",
             "Small seed round from generalist investors",
             "Struggling to raise next round"
         ],
-        2: [
+        3: [
             "Strong tier-2 VC backing",
             "Strategic investors in space",
             "Multiple rounds with up-rounds"
         ],
-        3: [
+        4: [
             "Top-tier VC leading all rounds",
             "Strategic bidding war for rounds",
             "Exceptional investor social proof"
+        ],
+        5: [
+            "Multiple top-tier VCs competing to invest at high valuations",
+            "Unprecedented investor demand and oversubscribed rounds",
+            "Global recognition as a flagship investment in the sector"
         ]
     },
     "Incumbent Blind Spot": {
-        0: [
+        1: [
             "Incumbents already building similar solution",
             "Easy for large players to copy",
             "No structural barriers to incumbent entry"
         ],
-        1: [
+        2: [
             "Incumbents aware but slow to respond",
             "Some organizational barriers",
             "Limited time advantage"
         ],
-        2: [
+        3: [
             "Clear structural barriers for incumbents",
             "Strong first-mover advantage in new category",
             "Significant organizational conflicts"
         ],
-        3: [
+        4: [
             "Fundamental disruption incumbents cannot pursue",
             "Perfect timing with high barriers to response",
             "Structural inability for incumbents to compete"
+        ],
+        5: [
+            "Incumbents are actively retreating or exiting the market",
+            "Disruption so profound incumbents are forced to partner or acquire",
+            "Sustained, systemic advantage with no credible incumbent response foreseeable"
         ]
     }
 }
@@ -170,7 +205,7 @@ class BaseEvaluator:
             model="gpt-4-turbo-preview",
             temperature=0
         )
-        self.search_tool = search_tool
+        self.search_tool = linkup_search_tool
         self.logger = logging.getLogger(__name__)
         
     def get_company_data(self, data: Dict[str, Any]) -> Optional[Dict[str, Any]]:
@@ -253,7 +288,7 @@ class BaseEvaluator:
         calibration_examples_text = ""
         if dimension_examples:
             calibration_examples_text = "Calibration Examples:\n"
-            for score in range(4):  # 0 to 3
+            for score in range(1, 6):  # 1 to 5
                 examples = dimension_examples.get(score, [])
                 calibration_examples_text += f"\nScore {score}:\n"
                 for example in examples:
@@ -264,7 +299,7 @@ class BaseEvaluator:
         prompt = f"""
         You are a critical evaluator assessing {company_data.get('name')} for the {self.dimension_name} dimension, specifically analyzing its potential as a fast follower opportunity. Assume nothing until proven.
 
-        Key Hypothesis to Evaluate:
+        Key attributes we are looking for when identifying a problem to fast follow:
         1. The company is targeting a proven problem/market where customers will pay
         2. The space has limited incumbents (signaled by competitors being young companies)
         3. Recent technological or market changes enable new solutions
@@ -272,10 +307,11 @@ class BaseEvaluator:
         5. The timing is right for a fast follower strategy
         
         Scoring Guidelines (Adversarial):
-        - 0 = No signal of edge. Founders are generalists or unrelated to domain.
-        - 1 = Background is adjacent but not clearly strategic.
-        - 2 = Domain or network relevance is evident but not unique.
-        - 3 = Rare and strategic edge (e.g., repeat founder in same vertical, ex-CxO in target buyer persona).
+        - 1 = No signal of edge. Founders are generalists or unrelated to domain.
+        - 2 = Background is adjacent but not clearly strategic.
+        - 3 = Domain or network relevance is evident but not unique.
+        - 4 = Rare and strategic edge (e.g., repeat founder in same vertical, ex-CxO in target buyer persona).
+        - 5 = Exceptional, category-defining edge (e.g., legendary repeat founder, ex-CEO of market leader, or unique proprietary advantage).
         
         {calibration_examples_text}
         
@@ -285,7 +321,7 @@ class BaseEvaluator:
         3. Explicitly identify missing information that would strengthen the evaluation
         4. Challenge assumptions about market readiness and timing
         5. Consider both technical and go-to-market risks
-        6. Your response MUST start with either "Score: X" or just the number X (where X is 0-3)
+        6. Your response MUST start with either "Score: X" or just the number X (where X is 1-5)
         7. Justify why the company doesn't deserve a higher score
         8. Question the reliability and completeness of available information
         
@@ -299,8 +335,8 @@ class BaseEvaluator:
         {self.rubric}
         
         Provide:
-        1. A concise, informative analysis of the company's potential as a fast follower opportunity for the {self.dimension_name} dimension. Your rationale must be no longer than 500 words (about 2 minutes to read). Avoid repetition and unnecessary detail.
-        2. After providing the rationale, determine the appropriate score from 0-3 using the rubric.
+        1. A concise, informative analysis of the company's potential as a fast follower opportunity for the {self.dimension_name} dimension. Your rationale must be no longer than 250 words. Avoid repetition and unnecessary detail.
+        2. After providing the rationale, determine the appropriate score from 1-5 using the rubric.
         """
         
         try:
@@ -310,7 +346,7 @@ class BaseEvaluator:
             self.logger.debug(f"Full response: {response}")
             
             # Parse response to extract score and rationale
-            score = 0
+            score = 1
             rationale = response
             
             # First try to find an explicit score
@@ -319,8 +355,8 @@ class BaseEvaluator:
                 try:
                     score_part = response.lower().split("score:")[1].split("\n")[0].strip()
                     self.logger.debug(f"Found score part: {score_part}")
-                    # Extract first number from the score part
-                    numbers = re.findall(r'\d+', score_part)
+                    # Extract first number from the score part (now 1-5)
+                    numbers = re.findall(r'[1-5]', score_part)
                     if numbers:
                         score = int(numbers[0])
                         self.logger.info(f"Successfully parsed score from 'Score:' prefix: {score}")
@@ -328,11 +364,11 @@ class BaseEvaluator:
                     self.logger.warning(f"Failed to parse score after 'Score:': {str(e)}")
             
             # If no explicit score found, try to find a number at the start
-            if score == 0:
+            if score == 1:
                 try:
                     self.logger.info("Attempting to find score at start of response")
-                    # Look for a single digit at the start of the response
-                    match = re.match(r'^\s*(\d)', response)
+                    # Look for a single digit 1-5 at the start of the response
+                    match = re.match(r'^\s*([1-5])', response)
                     if match:
                         score = int(match.group(1))
                         self.logger.info(f"Successfully parsed score from start of response: {score}")
@@ -341,7 +377,7 @@ class BaseEvaluator:
             
             # Ensure score is in valid range
             original_score = score
-            score = max(0, min(3, score))
+            score = max(1, min(5, score))
             if score != original_score:
                 self.logger.warning(f"Score adjusted from {original_score} to {score} to stay within valid range")
             
@@ -350,8 +386,8 @@ class BaseEvaluator:
             rationale_patterns = [
                 r'(?i)rationale:\s*(.*)', # Case-insensitive "rationale:"
                 r'(?i)evaluation:\s*(.*)', # Case-insensitive "evaluation:"
-                r'^\s*(?:score:?\s*\d+|[0-3])\s*\n+(.*)', # After score
-                r'^\s*(?:score:?\s*\d+|[0-3])\s*(.*)' # After score without newline
+                r'^\s*(?:score:?\s*\d+|[1-5])\s*\n+(.*)', # After score
+                r'^\s*(?:score:?\s*\d+|[1-5])\s*(.*)' # After score without newline
             ]
             
             original_rationale = rationale
