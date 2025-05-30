@@ -1,0 +1,5397 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "id": "qCP1xCFw96VVYg0Zp1xkZQnKgJTy",
+        "name": "fixify",
+        "display_name": "Fixify",
+        "size": "11-50",
+        "employee_count": 36,
+        "linkedin_follower_count": 5197,
+        "founded": 2023,
+        "inferred_revenue": "$10M-$25M",
+        "industry": "information technology and services",
+        "naics": [
+          {
+            "naics_code": "54151",
+            "sector": "professional, scientific, and technical services",
+            "sub_sector": "professional, scientific, and technical services",
+            "industry_group": "computer systems design and related services",
+            "naics_industry": "computer systems design and related services",
+            "national_industry": null
+          }
+        ],
+        "sic": [
+          {
+            "sic_code": "737",
+            "major_group": "business services",
+            "industry_group": "computer programming, data processing, and other computer related services",
+            "industry_sector": null
+          }
+        ],
+        "location": {
+          "name": "arlington, virginia, united states",
+          "locality": "arlington",
+          "region": "virginia",
+          "metro": "district of columbia",
+          "country": "united states",
+          "continent": "north america",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": "38.90,-77.12"
+        },
+        "linkedin_id": "99062951",
+        "linkedin_url": "linkedin.com/company/hifixify",
+        "linkedin_slug": "hifixify",
+        "facebook_url": null,
+        "twitter_url": null,
+        "profiles": [
+          "linkedin.com/company/99062951",
+          "crunchbase.com/organization/fixify",
+          "linkedin.com/company/hifixify"
+        ],
+        "website": "fixify.com",
+        "ticker": null,
+        "mic_exchange": null,
+        "type": "private",
+        "summary": "fixify is a new take on the it help desk!! we take on the work that’s bogging internal it teams down using a combination of tech and talented analysts that deliver an it help desk experience tailored to each company’s environment, workflows and people.",
+        "tags": null,
+        "headline": "Hi, we're Fixify",
+        "alternative_names": [],
+        "alternative_domains": [],
+        "affiliated_profiles": [],
+        "ultimate_parent": null,
+        "ultimate_parent_mic_exchange": null,
+        "ultimate_parent_ticker": null,
+        "immediate_parent": null,
+        "direct_subsidiaries": [],
+        "all_subsidiaries": [],
+        "total_funding_raised": 32000000,
+        "latest_funding_stage": "series_a",
+        "last_funding_date": "2024-10-23",
+        "number_funding_rounds": 2,
+        "funding_stages": [
+          "seed",
+          "series_a"
+        ],
+        "funding_details": [
+          {
+            "funding_currency": "usd",
+            "funding_raised": 25000000,
+            "funding_round_date": "2024-10-23",
+            "funding_type": "series_a",
+            "investing_companies": [
+              "BUI5kiNXaf9waktBo4WrHAAYZJPp",
+              "EiiTaEzqIPY2Qz3Xzig8GAi4f8g9",
+              "zfu8hueflvc7ciyAyAYnGgodaUrA",
+              "2ORbvlCb86hlHLS9hhcStQoDrAgi"
+            ],
+            "investing_individuals": []
+          },
+          {
+            "funding_currency": "usd",
+            "funding_raised": 7000000,
+            "funding_round_date": "2023-07-01",
+            "funding_type": "seed",
+            "investing_companies": [
+              "ITyXdQhUpYZrOGQOs7zGFQP4mrRY",
+              "EiiTaEzqIPY2Qz3Xzig8GAi4f8g9",
+              "BUI5kiNXaf9waktBo4WrHAAYZJPp",
+              "zfu8hueflvc7ciyAyAYnGgodaUrA"
+            ],
+            "investing_individuals": []
+          }
+        ],
+        "average_employee_tenure": 1.068,
+        "average_tenure_by_role": {
+          "advisory": 1.75,
+          "trade": 0,
+          "manufacturing": 0,
+          "hospitality": 0,
+          "public_service": 0,
+          "support": 0.917,
+          "research": 0,
+          "product": 0.625,
+          "education": 0,
+          "human_resources": 0,
+          "legal": 0,
+          "operations": 1.417,
+          "fulfillment": 0,
+          "professional_service": 0,
+          "creative": 0,
+          "marketing": 0.917,
+          "partnerships": 0,
+          "sales_engineering": 0,
+          "sales": 0.472,
+          "health": 0,
+          "analyst": 0.875,
+          "finance": 0,
+          "engineering": 1.036
+        },
+        "average_tenure_by_level": {
+          "unpaid": 0,
+          "cxo": 1.667,
+          "partner": 1.833,
+          "owner": 1.667,
+          "director": 0.75,
+          "vp": 0.813,
+          "senior": 0.979,
+          "manager": 0.958,
+          "entry": 0,
+          "training": 0
+        },
+        "employee_churn_rate": {
+          "3_month": 0.027,
+          "6_month": 0,
+          "12_month": 0,
+          "24_month": 0
+        },
+        "employee_count_by_country": {
+          "ireland": 11,
+          "united states": 25
+        },
+        "employee_count_by_month": {
+          "2023-01": 1,
+          "2023-02": 1,
+          "2023-03": 1,
+          "2023-04": 1,
+          "2023-05": 1,
+          "2023-06": 1,
+          "2023-07": 2,
+          "2023-08": 2,
+          "2023-09": 11,
+          "2023-10": 12,
+          "2023-11": 12,
+          "2023-12": 12,
+          "2024-01": 15,
+          "2024-02": 16,
+          "2024-03": 18,
+          "2024-04": 23,
+          "2024-05": 23,
+          "2024-06": 28,
+          "2024-07": 31,
+          "2024-08": 31,
+          "2024-09": 35,
+          "2024-10": 35,
+          "2024-11": 35,
+          "2024-12": 36,
+          "2025-01": 37,
+          "2025-02": 36,
+          "2025-03": 36,
+          "2025-04": 36
+        },
+        "employee_count_by_role": {
+          "other_uncategorized": 6,
+          "advisory": 3,
+          "trade": 0,
+          "manufacturing": 0,
+          "hospitality": 0,
+          "public_service": 0,
+          "support": 1,
+          "research": 0,
+          "product": 1,
+          "education": 0,
+          "human_resources": 0,
+          "legal": 0,
+          "operations": 3,
+          "fulfillment": 0,
+          "professional_service": 0,
+          "creative": 0,
+          "marketing": 2,
+          "partnerships": 0,
+          "sales_engineering": 0,
+          "sales": 2,
+          "health": 0,
+          "analyst": 2,
+          "finance": 0,
+          "engineering": 16
+        },
+        "employee_count_by_sub_role": {
+          "other_uncategorized": 12,
+          "advisor": 1,
+          "board_member": 1,
+          "investor": 1,
+          "agriculture": 0,
+          "construction": 0,
+          "electric": 0,
+          "mechanic": 0,
+          "plumbing": 0,
+          "health_and_safety": 0,
+          "machinist": 0,
+          "quality_assurance": 0,
+          "restaurants": 0,
+          "retail": 0,
+          "emergency_services": 0,
+          "judicial": 0,
+          "military": 0,
+          "political": 0,
+          "protective_service": 0,
+          "social_service": 0,
+          "account_management": 0,
+          "customer_success": 1,
+          "customer_support": 0,
+          "fraud": 0,
+          "academic": 0,
+          "financial": 0,
+          "scientific": 0,
+          "product_design": 0,
+          "product_management": 1,
+          "curation": 0,
+          "primary_and_secondary": 0,
+          "professor": 0,
+          "student": 0,
+          "tour_and_travel": 0,
+          "human_resources": 0,
+          "recruiting": 0,
+          "talent_analytics": 0,
+          "training": 0,
+          "compliance": 0,
+          "legal": 0,
+          "administrative": 0,
+          "aides": 0,
+          "building_and_grounds": 0,
+          "corporate_development": 0,
+          "executive": 2,
+          "investor_relations": 0,
+          "strategy": 0,
+          "logistics": 0,
+          "project_management": 0,
+          "transport": 0,
+          "warehouse": 0,
+          "accounting_services": 0,
+          "architecture": 0,
+          "consulting": 0,
+          "investment_banking": 0,
+          "legal_services": 0,
+          "marketing_services": 0,
+          "translation": 0,
+          "artist": 0,
+          "entertainment": 0,
+          "fashion": 0,
+          "graphic_design": 0,
+          "hair_stylist": 0,
+          "journalism": 0,
+          "brand": 0,
+          "content": 0,
+          "growth": 0,
+          "marketing_design": 0,
+          "business_development": 0,
+          "partnerships": 0,
+          "implementation": 0,
+          "solutions_engineer": 0,
+          "account_executive": 2,
+          "insurance": 0,
+          "realtor": 0,
+          "sales_development": 0,
+          "dental": 0,
+          "doctor": 0,
+          "fitness": 0,
+          "nursing": 0,
+          "pharmacy": 0,
+          "therapy": 0,
+          "veterinarian": 0,
+          "wellness": 0,
+          "business_analyst": 0,
+          "data_analyst": 1,
+          "revenue_operations": 1,
+          "accounting": 0,
+          "bookkeeping": 0,
+          "procurement": 0,
+          "planning_and_analysis": 0,
+          "risk": 0,
+          "chemical": 0,
+          "data_engineering": 1,
+          "data_science": 2,
+          "devops": 0,
+          "electrical": 0,
+          "hardware": 0,
+          "industrial": 0,
+          "information_technology": 6,
+          "mechanical": 0,
+          "network": 0,
+          "qa_engineering": 0,
+          "security": 0,
+          "software": 4,
+          "web": 0
+        },
+        "employee_count_by_class": {
+          "other_uncategorized": 6,
+          "services": 1,
+          "general_and_administrative": 8,
+          "sales_and_marketing": 4,
+          "research_and_development": 17
+        },
+        "employee_count_by_month_by_level": {
+          "2023-07": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 1,
+            "owner": 0,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-08": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 1,
+            "owner": 0,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-09": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 0,
+            "vp": 1,
+            "senior": 1,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-10": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 1,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-11": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-12": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-01": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 2,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-02": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 0,
+            "vp": 1,
+            "senior": 3,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-03": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 3,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-04": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 4,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-05": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 1,
+            "senior": 4,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-06": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 2,
+            "senior": 6,
+            "manager": 3,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-07": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 2,
+            "senior": 7,
+            "manager": 3,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-08": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 2,
+            "senior": 7,
+            "manager": 3,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-09": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-10": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-11": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-12": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-01": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-02": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-03": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-04": {
+            "unpaid": 0,
+            "cxo": 4,
+            "partner": 1,
+            "owner": 3,
+            "director": 1,
+            "vp": 3,
+            "senior": 7,
+            "manager": 4,
+            "entry": 0,
+            "training": 0
+          }
+        },
+        "employee_count_by_month_by_role": {
+          "2023-01": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-02": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-03": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-04": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-05": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-06": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-07": {
+            "other_uncategorized": 0,
+            "advisory": 2,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-08": {
+            "other_uncategorized": 0,
+            "advisory": 2,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 0,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-09": {
+            "other_uncategorized": 3,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2023-10": {
+            "other_uncategorized": 3,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2023-11": {
+            "other_uncategorized": 3,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2023-12": {
+            "other_uncategorized": 3,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2024-01": {
+            "other_uncategorized": 4,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 5
+          },
+          "2024-02": {
+            "other_uncategorized": 5,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2024-03": {
+            "other_uncategorized": 6,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2024-04": {
+            "other_uncategorized": 7,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 1,
+            "finance": 0,
+            "engineering": 9
+          },
+          "2024-05": {
+            "other_uncategorized": 7,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 1,
+            "finance": 0,
+            "engineering": 9
+          },
+          "2024-06": {
+            "other_uncategorized": 7,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 1,
+            "finance": 0,
+            "engineering": 11
+          },
+          "2024-07": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 1,
+            "finance": 0,
+            "engineering": 13
+          },
+          "2024-08": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 1,
+            "finance": 0,
+            "engineering": 13
+          },
+          "2024-09": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 13
+          },
+          "2024-10": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 13
+          },
+          "2024-11": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 13
+          },
+          "2024-12": {
+            "other_uncategorized": 8,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 14
+          },
+          "2025-01": {
+            "other_uncategorized": 7,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 3,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 15
+          },
+          "2025-02": {
+            "other_uncategorized": 7,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 15
+          },
+          "2025-03": {
+            "other_uncategorized": 6,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 16
+          },
+          "2025-04": {
+            "other_uncategorized": 6,
+            "advisory": 3,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 1,
+            "research": 0,
+            "product": 1,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 2,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 2,
+            "health": 0,
+            "analyst": 2,
+            "finance": 0,
+            "engineering": 16
+          }
+        },
+        "employee_growth_rate": {
+          "3_month": -0.027,
+          "6_month": 0.0286,
+          "12_month": 0.5652,
+          "24_month": 35
+        },
+        "employee_growth_rate_12_month_by_role": {
+          "other_uncategorized": -0.1429,
+          "advisory": 0,
+          "trade": null,
+          "manufacturing": null,
+          "hospitality": null,
+          "public_service": null,
+          "support": null,
+          "research": null,
+          "product": null,
+          "education": null,
+          "human_resources": null,
+          "legal": null,
+          "operations": 0.5,
+          "fulfillment": null,
+          "professional_service": null,
+          "creative": null,
+          "marketing": 1,
+          "partnerships": null,
+          "sales_engineering": null,
+          "sales": null,
+          "health": null,
+          "analyst": 1,
+          "finance": null,
+          "engineering": 0.7778
+        },
+        "employee_growth_rate_12_month_by_sub_role": {
+          "other_uncategorized": 0.2,
+          "advisor": 0,
+          "board_member": 0,
+          "investor": 0,
+          "agriculture": null,
+          "construction": null,
+          "electric": null,
+          "mechanic": null,
+          "plumbing": null,
+          "health_and_safety": null,
+          "machinist": null,
+          "quality_assurance": null,
+          "restaurants": null,
+          "retail": null,
+          "emergency_services": null,
+          "judicial": null,
+          "military": null,
+          "political": null,
+          "protective_service": null,
+          "social_service": null,
+          "account_management": null,
+          "customer_success": null,
+          "customer_support": null,
+          "fraud": null,
+          "academic": null,
+          "financial": null,
+          "scientific": null,
+          "product_design": null,
+          "product_management": null,
+          "curation": null,
+          "primary_and_secondary": null,
+          "professor": null,
+          "student": null,
+          "tour_and_travel": null,
+          "human_resources": null,
+          "recruiting": null,
+          "talent_analytics": null,
+          "training": null,
+          "compliance": null,
+          "legal": null,
+          "administrative": null,
+          "aides": null,
+          "building_and_grounds": null,
+          "corporate_development": null,
+          "executive": 0,
+          "investor_relations": null,
+          "strategy": null,
+          "logistics": null,
+          "project_management": null,
+          "transport": null,
+          "warehouse": null,
+          "accounting_services": null,
+          "architecture": null,
+          "consulting": null,
+          "investment_banking": null,
+          "legal_services": null,
+          "marketing_services": null,
+          "translation": null,
+          "artist": null,
+          "entertainment": null,
+          "fashion": null,
+          "graphic_design": null,
+          "hair_stylist": null,
+          "journalism": null,
+          "brand": null,
+          "content": null,
+          "growth": null,
+          "marketing_design": null,
+          "business_development": null,
+          "partnerships": null,
+          "implementation": null,
+          "solutions_engineer": null,
+          "account_executive": null,
+          "insurance": null,
+          "realtor": null,
+          "sales_development": null,
+          "dental": null,
+          "doctor": null,
+          "fitness": null,
+          "nursing": null,
+          "pharmacy": null,
+          "therapy": null,
+          "veterinarian": null,
+          "wellness": null,
+          "business_analyst": null,
+          "data_analyst": 0,
+          "revenue_operations": null,
+          "accounting": null,
+          "bookkeeping": null,
+          "procurement": null,
+          "planning_and_analysis": null,
+          "risk": null,
+          "chemical": null,
+          "data_engineering": null,
+          "data_science": 1,
+          "devops": null,
+          "electrical": null,
+          "hardware": null,
+          "industrial": null,
+          "information_technology": 1,
+          "mechanical": null,
+          "network": null,
+          "qa_engineering": null,
+          "security": null,
+          "software": 1,
+          "web": null
+        },
+        "employee_growth_rate_12_month_by_class": {
+          "other_uncategorized": -0.1429,
+          "services": null,
+          "general_and_administrative": 0.3333,
+          "sales_and_marketing": 3,
+          "research_and_development": 1.125
+        },
+        "gross_additions_by_month": {
+          "2023-07": 1,
+          "2023-08": 0,
+          "2023-09": 9,
+          "2023-10": 1,
+          "2023-11": 0,
+          "2023-12": 0,
+          "2024-01": 3,
+          "2024-02": 2,
+          "2024-03": 2,
+          "2024-04": 5,
+          "2024-05": 0,
+          "2024-06": 5,
+          "2024-07": 3,
+          "2024-08": 0,
+          "2024-09": 5,
+          "2024-10": 0,
+          "2024-11": 0,
+          "2024-12": 1,
+          "2025-01": 1,
+          "2025-02": 0,
+          "2025-03": 1,
+          "2025-04": 0
+        },
+        "gross_departures_by_month": {
+          "2024-01": 1,
+          "2024-02": 0,
+          "2024-03": 0,
+          "2024-04": 0,
+          "2024-05": 0,
+          "2024-06": 0,
+          "2024-07": 0,
+          "2024-08": 1,
+          "2024-09": 0,
+          "2024-10": 0,
+          "2024-11": 0,
+          "2024-12": 0,
+          "2025-01": 1,
+          "2025-02": 1,
+          "2025-03": 0,
+          "2025-04": 0
+        },
+        "recent_exec_departures": [],
+        "recent_exec_hires": [],
+        "top_next_employers": {
+          "advisory": [
+            {
+              "id": "IM3vF2dLC54mDgX4cBifDAUZEmLc",
+              "count": 1,
+              "display_name": "Cloud-fence"
+            },
+            {
+              "id": "qbXrWrqaaI46c6m1pHQBdQuwwBsn",
+              "count": 1,
+              "display_name": "Embed Security"
+            },
+            {
+              "id": "rGSg7aju64qYD2Gfz0C3vw0gBlbd",
+              "count": 1,
+              "display_name": "Insane Cyber"
+            },
+            {
+              "id": "7Tc6spfj4cBtAYBwpHzjqg5PCUwZ",
+              "count": 1,
+              "display_name": "Alleva"
+            },
+            {
+              "id": "Poohd1MGSFuJyV5U716jCA2dN8KJ",
+              "count": 1,
+              "display_name": "OpenPipe"
+            }
+          ],
+          "all": [
+            {
+              "id": "HDfo0YNOws2BdRVjapoYlQedgbmr",
+              "count": 1,
+              "display_name": "Workday"
+            },
+            {
+              "id": "6nlOp90yHBAQBuazdccKPApmtATt",
+              "count": 1,
+              "display_name": "Prophet Security"
+            },
+            {
+              "id": "FFOxpxR1zDWT8RSNpBFCfw1HlhfF",
+              "count": 1,
+              "display_name": "Miles Partnership"
+            },
+            {
+              "id": "IM3vF2dLC54mDgX4cBifDAUZEmLc",
+              "count": 1,
+              "display_name": "Cloud-fence"
+            },
+            {
+              "id": "qbXrWrqaaI46c6m1pHQBdQuwwBsn",
+              "count": 1,
+              "display_name": "Embed Security"
+            },
+            {
+              "id": "1DmgCNeyGWBz1ginc5NGzAhNZ62q",
+              "count": 1,
+              "display_name": "Catalyst Engine"
+            },
+            {
+              "id": "Poohd1MGSFuJyV5U716jCA2dN8KJ",
+              "count": 1,
+              "display_name": "OpenPipe"
+            },
+            {
+              "id": "7Tc6spfj4cBtAYBwpHzjqg5PCUwZ",
+              "count": 1,
+              "display_name": "Alleva"
+            },
+            {
+              "id": "rGSg7aju64qYD2Gfz0C3vw0gBlbd",
+              "count": 1,
+              "display_name": "Insane Cyber"
+            },
+            {
+              "id": "dvFZnINB9jU8IMQJ4cdV7gZpCCxb",
+              "count": 1,
+              "display_name": "Rapid7"
+            }
+          ],
+          "product": [
+            {
+              "id": "FFOxpxR1zDWT8RSNpBFCfw1HlhfF",
+              "count": 1,
+              "display_name": "Miles Partnership"
+            },
+            {
+              "id": "1DmgCNeyGWBz1ginc5NGzAhNZ62q",
+              "count": 1,
+              "display_name": "Catalyst Engine"
+            }
+          ]
+        },
+        "top_previous_employers": {
+          "advisory": [
+            {
+              "id": "9mVwTsIChYzIpWIEMzfieQ6uOu3k",
+              "count": 1,
+              "display_name": "Stanford Graduate School of Business"
+            },
+            {
+              "id": "MWb2MpF9U9Og2w2BhaZvkgXYyYco",
+              "count": 1,
+              "display_name": "RiskSense, Inc."
+            },
+            {
+              "id": "hDs65swVazMNZEZMFfCgNAgxVplw",
+              "count": 1,
+              "display_name": "Evolve Security"
+            },
+            {
+              "id": "JcVK1ReQ1iglS6KNFPR2bwtRLM1x",
+              "count": 1,
+              "display_name": "Senrio"
+            },
+            {
+              "id": "wFbLWN6MKDd3xLRTI3XhMwGTdsUG",
+              "count": 1,
+              "display_name": "Turngate"
+            },
+            {
+              "id": "KBVjB6yoKa8qlpJCB9dSRwTEmYoT",
+              "count": 1,
+              "display_name": "Pacific Resources"
+            },
+            {
+              "id": "hWBI7x4FvSurVNWDXD4uFgQt5ges",
+              "count": 1,
+              "display_name": "Amazon"
+            },
+            {
+              "id": "JlWlhEC9oP4GKODzdP0G7AlvDD2p",
+              "count": 1,
+              "display_name": "Earthmover"
+            },
+            {
+              "id": "j9mtyfc8nmEIUibDiU2k2wdCQKty",
+              "count": 1,
+              "display_name": "Databricks"
+            },
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            }
+          ],
+          "sales": [
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 2,
+              "display_name": "Software AG"
+            },
+            {
+              "id": "2XgWJk5Ef9ZCOh3kqWHzNQ2fF1Vf",
+              "count": 1,
+              "display_name": "Cvent"
+            },
+            {
+              "id": "phbQwUubYqZl7nOUC0WFnAH89p5Y",
+              "count": 1,
+              "display_name": "Snag Work"
+            },
+            {
+              "id": "UzPfBa9zkRBy0aIgY9mrPQg8lIsv",
+              "count": 1,
+              "display_name": "FMAV"
+            },
+            {
+              "id": "5SBs7qgUPEZyjrJ99K9lfAPvR5IW",
+              "count": 1,
+              "display_name": "Sharp's Audio Visual"
+            },
+            {
+              "id": "KJG6Hjvc5HBYCliFUJF6Xw5Z9ZXB",
+              "count": 1,
+              "display_name": "Snag"
+            },
+            {
+              "id": "AZC0zVyfCp5T0CP4eZ3NXAmiEEil",
+              "count": 1,
+              "display_name": "GoCanvas"
+            },
+            {
+              "id": "A8v2cCbTiBVJ7hPpCSJCTAg7taIM",
+              "count": 1,
+              "display_name": "Stonly"
+            },
+            {
+              "id": "BNnBEHB7mZB671cGcgPE1grknBxI",
+              "count": 1,
+              "display_name": "Snagajob"
+            },
+            {
+              "id": "HRqzHHBOBOweXHK35SQ0FADKXvlC",
+              "count": 1,
+              "display_name": "ReliaQuest"
+            }
+          ],
+          "marketing": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 2,
+              "display_name": "Expel"
+            },
+            {
+              "id": "kqHg8SFh1rbG2GNGfN5N3ALHQNEz",
+              "count": 1,
+              "display_name": "ThreatConnect"
+            },
+            {
+              "id": "nY9RT5ZRNhrUERc2lg4J3gLSCjwW",
+              "count": 1,
+              "display_name": "Fidelis Security"
+            },
+            {
+              "id": "yWcH1EiAH4BCKHMSP57f6wRIccqa",
+              "count": 1,
+              "display_name": "Mandiant"
+            },
+            {
+              "id": "REY9zmcJ4ei5oxKoH1MKug4vEmzM",
+              "count": 1,
+              "display_name": "CenturyLink"
+            },
+            {
+              "id": "Qh3GEa4VsBsJsstfaCAVEwUVCWNW",
+              "count": 1,
+              "display_name": "Strivacity"
+            },
+            {
+              "id": "2iF52ioZBzeIEYG6fvpY7A9HzjWx",
+              "count": 1,
+              "display_name": "Vail Resorts"
+            },
+            {
+              "id": "DAXnfUxBRNyA5Dps722j6wElq08N",
+              "count": 1,
+              "display_name": "Women's Wilderness"
+            },
+            {
+              "id": "udYCaFSZ06JKfUFILN1VNQl8N83T",
+              "count": 1,
+              "display_name": "FireEye, Inc."
+            },
+            {
+              "id": "iGzUJZ44RC4zaaJ3w20AgwRHLVQU",
+              "count": 1,
+              "display_name": "Upslope Brewing Company"
+            }
+          ],
+          "operations": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 2,
+              "display_name": "Expel"
+            },
+            {
+              "id": "o90KuMAyqJ5MeTnw9RZkqgC1z8Ff",
+              "count": 1,
+              "display_name": "Check Point Software Technologies, Ltd."
+            },
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 1,
+              "display_name": "Software AG"
+            },
+            {
+              "id": "Qiy0ZzBCoh0BHXuCkTLkbgtc2BpE",
+              "count": 1,
+              "display_name": "Achieve, Inc."
+            },
+            {
+              "id": "gxqizCnKMU7lmZkfmOW6GQnzFEqS",
+              "count": 1,
+              "display_name": "Advance CTE"
+            },
+            {
+              "id": "fBe6a0cVCTSjUqPSNijp0QugPoSG",
+              "count": 1,
+              "display_name": "Erickson Senior Living"
+            },
+            {
+              "id": "jJqGy39tdhGSMYc0EV6m7wQzcgj3",
+              "count": 1,
+              "display_name": "American Farm Bureau Federation"
+            },
+            {
+              "id": "D6nIFBKbOMz01N9mabKeHw8ZJsnP",
+              "count": 1,
+              "display_name": "ConSentry Networks"
+            },
+            {
+              "id": "dWI3XwuxBl3zxRmBBtxAMArtdvqd",
+              "count": 1,
+              "display_name": "Gate Gourmet"
+            },
+            {
+              "id": "Q8xYWhgtZAKEQur88IvuQQj8A5R4",
+              "count": 1,
+              "display_name": "Extreme Networks"
+            }
+          ],
+          "product": [
+            {
+              "id": "gurpizEPD6yWKsaQx1VZeg7OWFQw",
+              "count": 1,
+              "display_name": "Slalom"
+            },
+            {
+              "id": "TgdKbi2NVANVwGp6OaL0IgJvhTRe",
+              "count": 1,
+              "display_name": "General Assembly"
+            },
+            {
+              "id": "Pj71FYtxpvm9mUSCtJWG1gMLJOE3",
+              "count": 1,
+              "display_name": "Deloitte Digital"
+            },
+            {
+              "id": "9RbL5VOjvzCTZ6PXfD04hQIXUEzX",
+              "count": 1,
+              "display_name": "Kareo"
+            },
+            {
+              "id": "TLRpiFFq1pBelv9Yil4q7Am9QzaN",
+              "count": 1,
+              "display_name": "Idealform GmbH"
+            },
+            {
+              "id": "JCeXEhK3FDWJJZBhV88xfQVwV5yA",
+              "count": 1,
+              "display_name": "Network Solutions"
+            },
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            },
+            {
+              "id": "aX8vyXE0fuJJz6RMvUzDCgVKuxCc",
+              "count": 1,
+              "display_name": "LRN"
+            },
+            {
+              "id": "l7rSedBM9B4Hq3rTJuKUWAzxEcVK",
+              "count": 1,
+              "display_name": "Market Runners, LLC"
+            },
+            {
+              "id": "3ONUqJvonfHrWR7jFtovsQQ0ZrA4",
+              "count": 1,
+              "display_name": "US Interactive"
+            }
+          ],
+          "engineering": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 5,
+              "display_name": "Expel"
+            },
+            {
+              "id": "vqaCT9TxRJ0dC744YrLHNA1NIdl3",
+              "count": 3,
+              "display_name": "Voxpro"
+            },
+            {
+              "id": "dc4B4pJQJP94SIWTQN4xgQzgIG3L",
+              "count": 3,
+              "display_name": "PFH Technology Group"
+            },
+            {
+              "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+              "count": 2,
+              "display_name": "Johnson & Johnson"
+            },
+            {
+              "id": "asVNJDZzfwsZpZfk9dJNJwzQdct5",
+              "count": 2,
+              "display_name": "TELUS International"
+            },
+            {
+              "id": "6R75BIke1HDINID1Q5zgfABGYdjx",
+              "count": 1,
+              "display_name": "Oomnitza"
+            },
+            {
+              "id": "Cw9vt7WFFRbhLDnoCeRbswn15Qhi",
+              "count": 1,
+              "display_name": "Intel Corporation"
+            },
+            {
+              "id": "pnxDyzMBdxLo1o8ysvyatwAgDY4Z",
+              "count": 1,
+              "display_name": "ShockVoyce"
+            },
+            {
+              "id": "NWBzLjtJe1u1WGSoU3beRgp3RC19",
+              "count": 1,
+              "display_name": "Rutgers University"
+            },
+            {
+              "id": "3YpjiP3X53BLcZglEEW8IQRwu6Sx",
+              "count": 1,
+              "display_name": "QAD"
+            }
+          ],
+          "all": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 16,
+              "display_name": "Expel"
+            },
+            {
+              "id": "udYCaFSZ06JKfUFILN1VNQl8N83T",
+              "count": 8,
+              "display_name": "FireEye, Inc."
+            },
+            {
+              "id": "yWcH1EiAH4BCKHMSP57f6wRIccqa",
+              "count": 4,
+              "display_name": "Mandiant"
+            },
+            {
+              "id": "vqaCT9TxRJ0dC744YrLHNA1NIdl3",
+              "count": 4,
+              "display_name": "Voxpro"
+            },
+            {
+              "id": "asVNJDZzfwsZpZfk9dJNJwzQdct5",
+              "count": 3,
+              "display_name": "TELUS International"
+            },
+            {
+              "id": "ByCaTrPeEbaxso6mkMUlQA8ta7AM",
+              "count": 3,
+              "display_name": "Symantec"
+            },
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 3,
+              "display_name": "Software AG"
+            },
+            {
+              "id": "dc4B4pJQJP94SIWTQN4xgQzgIG3L",
+              "count": 3,
+              "display_name": "PFH Technology Group"
+            },
+            {
+              "id": "SlVnfCCENvEh9B8s188hDgIXsl6T",
+              "count": 2,
+              "display_name": "ManTech Cyber Solutions International"
+            },
+            {
+              "id": "hWBI7x4FvSurVNWDXD4uFgQt5ges",
+              "count": 2,
+              "display_name": "Amazon"
+            }
+          ],
+          "analyst": [
+            {
+              "id": "X3U99D0N4YDXvl99KacVEwc7QXbt",
+              "count": 1,
+              "display_name": "American Enterprise Institute"
+            },
+            {
+              "id": "eKAcCYyd4hooCRMyGNr2DAWn1OLx",
+              "count": 1,
+              "display_name": "Movable"
+            },
+            {
+              "id": "E33En1BC79vpLcvFkn1N5gDHWOBW",
+              "count": 1,
+              "display_name": "MRI Software"
+            },
+            {
+              "id": "14vsJLB1q91hOTl6RwLTsA1pFOIF",
+              "count": 1,
+              "display_name": "Elme Communities"
+            },
+            {
+              "id": "udYCaFSZ06JKfUFILN1VNQl8N83T",
+              "count": 1,
+              "display_name": "FireEye, Inc."
+            },
+            {
+              "id": "Qh3GEa4VsBsJsstfaCAVEwUVCWNW",
+              "count": 1,
+              "display_name": "Strivacity"
+            },
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            },
+            {
+              "id": "owaqOBUmDKeWUL0ENXTKzwBwl6WD",
+              "count": 1,
+              "display_name": "Frontpoint"
+            }
+          ],
+          "support": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            },
+            {
+              "id": "JMe05VBLNEOBa4C9mGJ8wAMsnWUS",
+              "count": 1,
+              "display_name": "Circuit City"
+            },
+            {
+              "id": "lUK6ONFpyoSrblOtVvQBBQ5iEFXu",
+              "count": 1,
+              "display_name": "FactSet"
+            },
+            {
+              "id": "ByCaTrPeEbaxso6mkMUlQA8ta7AM",
+              "count": 1,
+              "display_name": "Symantec"
+            }
+          ]
+        },
+        "top_next_employers_12_month": {
+          "all": [
+            {
+              "id": "FFOxpxR1zDWT8RSNpBFCfw1HlhfF",
+              "count": 1,
+              "display_name": "Miles Partnership"
+            },
+            {
+              "id": "HDfo0YNOws2BdRVjapoYlQedgbmr",
+              "count": 1,
+              "display_name": "Workday"
+            },
+            {
+              "id": "dvFZnINB9jU8IMQJ4cdV7gZpCCxb",
+              "count": 1,
+              "display_name": "Rapid7"
+            },
+            {
+              "id": "IM3vF2dLC54mDgX4cBifDAUZEmLc",
+              "count": 1,
+              "display_name": "Cloud-fence"
+            },
+            {
+              "id": "qbXrWrqaaI46c6m1pHQBdQuwwBsn",
+              "count": 1,
+              "display_name": "Embed Security"
+            }
+          ],
+          "advisory": [
+            {
+              "id": "IM3vF2dLC54mDgX4cBifDAUZEmLc",
+              "count": 1,
+              "display_name": "Cloud-fence"
+            },
+            {
+              "id": "qbXrWrqaaI46c6m1pHQBdQuwwBsn",
+              "count": 1,
+              "display_name": "Embed Security"
+            }
+          ],
+          "product": [
+            {
+              "id": "FFOxpxR1zDWT8RSNpBFCfw1HlhfF",
+              "count": 1,
+              "display_name": "Miles Partnership"
+            }
+          ]
+        },
+        "top_previous_employers_12_month": {
+          "all": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 4,
+              "display_name": "Expel"
+            },
+            {
+              "id": "dc4B4pJQJP94SIWTQN4xgQzgIG3L",
+              "count": 3,
+              "display_name": "PFH Technology Group"
+            },
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 3,
+              "display_name": "Software AG"
+            },
+            {
+              "id": "Qh3GEa4VsBsJsstfaCAVEwUVCWNW",
+              "count": 2,
+              "display_name": "Strivacity"
+            },
+            {
+              "id": "6R75BIke1HDINID1Q5zgfABGYdjx",
+              "count": 1,
+              "display_name": "Oomnitza"
+            },
+            {
+              "id": "14vsJLB1q91hOTl6RwLTsA1pFOIF",
+              "count": 1,
+              "display_name": "Elme Communities"
+            },
+            {
+              "id": "2mEbBDdCMPhfmcvBuSYZ3ANDgf6l",
+              "count": 1,
+              "display_name": "ClickDimensions"
+            },
+            {
+              "id": "zcHKu30cf4XmIJbnLFUnrQjC3kg9",
+              "count": 1,
+              "display_name": "Otonomee"
+            },
+            {
+              "id": "HCBp1G0rmQnC1aYOTvardQqosnbg",
+              "count": 1,
+              "display_name": "NightDragon"
+            },
+            {
+              "id": "q6ZlHhb9csv4W2lWW6C8TwPFn54B",
+              "count": 1,
+              "display_name": "Selfbook"
+            }
+          ],
+          "support": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            }
+          ],
+          "sales": [
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 2,
+              "display_name": "Software AG"
+            },
+            {
+              "id": "q6ZlHhb9csv4W2lWW6C8TwPFn54B",
+              "count": 1,
+              "display_name": "Selfbook"
+            }
+          ],
+          "marketing": [
+            {
+              "id": "Qh3GEa4VsBsJsstfaCAVEwUVCWNW",
+              "count": 1,
+              "display_name": "Strivacity"
+            }
+          ],
+          "operations": [
+            {
+              "id": "EEKxgV0yA0REBCDpwQV8HQToZwd8",
+              "count": 1,
+              "display_name": "Software AG"
+            }
+          ],
+          "product": [
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 1,
+              "display_name": "Expel"
+            }
+          ],
+          "engineering": [
+            {
+              "id": "dc4B4pJQJP94SIWTQN4xgQzgIG3L",
+              "count": 3,
+              "display_name": "PFH Technology Group"
+            },
+            {
+              "id": "5OOmrfJ9d01aWqvtPyjugAEq0C9P",
+              "count": 2,
+              "display_name": "Expel"
+            },
+            {
+              "id": "zcHKu30cf4XmIJbnLFUnrQjC3kg9",
+              "count": 1,
+              "display_name": "Otonomee"
+            },
+            {
+              "id": "6R75BIke1HDINID1Q5zgfABGYdjx",
+              "count": 1,
+              "display_name": "Oomnitza"
+            },
+            {
+              "id": "q9dK2WXoX3CC6B9nfAtljgGTIX32",
+              "count": 1,
+              "display_name": "Apple"
+            },
+            {
+              "id": "8f6yS38N2LzcosIGvMisMQhunq3z",
+              "count": 1,
+              "display_name": "Facet"
+            },
+            {
+              "id": "sETWZBFBVCpAhCXGC33i9ADKyxG4",
+              "count": 1,
+              "display_name": "Unity Technology Solutions"
+            }
+          ],
+          "analyst": [
+            {
+              "id": "Qh3GEa4VsBsJsstfaCAVEwUVCWNW",
+              "count": 1,
+              "display_name": "Strivacity"
+            },
+            {
+              "id": "14vsJLB1q91hOTl6RwLTsA1pFOIF",
+              "count": 1,
+              "display_name": "Elme Communities"
+            }
+          ]
+        },
+        "top_next_employers_by_role": {
+          "product": {
+            "FFOxpxR1zDWT8RSNpBFCfw1HlhfF": 1,
+            "1DmgCNeyGWBz1ginc5NGzAhNZ62q": 1
+          },
+          "advisory": {
+            "qbXrWrqaaI46c6m1pHQBdQuwwBsn": 1,
+            "7Tc6spfj4cBtAYBwpHzjqg5PCUwZ": 1,
+            "rGSg7aju64qYD2Gfz0C3vw0gBlbd": 1,
+            "Poohd1MGSFuJyV5U716jCA2dN8KJ": 1,
+            "IM3vF2dLC54mDgX4cBifDAUZEmLc": 1
+          },
+          "all": {
+            "Poohd1MGSFuJyV5U716jCA2dN8KJ": 1,
+            "6nlOp90yHBAQBuazdccKPApmtATt": 1,
+            "rGSg7aju64qYD2Gfz0C3vw0gBlbd": 1,
+            "FFOxpxR1zDWT8RSNpBFCfw1HlhfF": 1,
+            "HDfo0YNOws2BdRVjapoYlQedgbmr": 1,
+            "7Tc6spfj4cBtAYBwpHzjqg5PCUwZ": 1,
+            "IM3vF2dLC54mDgX4cBifDAUZEmLc": 1,
+            "1DmgCNeyGWBz1ginc5NGzAhNZ62q": 1,
+            "dvFZnINB9jU8IMQJ4cdV7gZpCCxb": 1,
+            "qbXrWrqaaI46c6m1pHQBdQuwwBsn": 1
+          }
+        },
+        "top_previous_employers_by_role": {
+          "product": {
+            "TgdKbi2NVANVwGp6OaL0IgJvhTRe": 1,
+            "TLRpiFFq1pBelv9Yil4q7Am9QzaN": 1,
+            "JCeXEhK3FDWJJZBhV88xfQVwV5yA": 1,
+            "Pj71FYtxpvm9mUSCtJWG1gMLJOE3": 1,
+            "9RbL5VOjvzCTZ6PXfD04hQIXUEzX": 1,
+            "meuvPlfzk2le8wl56mBOHwcZymv4": 1,
+            "rJDPOXczFeqOKWdtJvvYCgGZ5QVR": 1,
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 1,
+            "gurpizEPD6yWKsaQx1VZeg7OWFQw": 1,
+            "aX8vyXE0fuJJz6RMvUzDCgVKuxCc": 1
+          },
+          "engineering": {
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 5,
+            "dc4B4pJQJP94SIWTQN4xgQzgIG3L": 3,
+            "vqaCT9TxRJ0dC744YrLHNA1NIdl3": 3,
+            "asVNJDZzfwsZpZfk9dJNJwzQdct5": 2,
+            "NwG9dY7zNopEpo9tHllLiAaRSs1R": 2,
+            "BsOjjk81jQO9CK5CULij3gH68kml": 1,
+            "dBdAlaOCDQ6QG9Wk3dP7OgI4Zs2j": 1,
+            "bfYABlrzarG5egpovAkmHAPSVC3i": 1,
+            "udYCaFSZ06JKfUFILN1VNQl8N83T": 1,
+            "QaJCx6jubPTF4EMIIe4orQEDXsr1": 1
+          },
+          "marketing": {
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 2,
+            "Qh3GEa4VsBsJsstfaCAVEwUVCWNW": 1,
+            "DMi6e5U4h5DVFX8aWYXVgg3dQds2": 1,
+            "xHrnMa32kqRdj9snCACGSQsURsHw": 1,
+            "V0pjLEnxDiwFTxJApqgh4AzhSJQl": 1,
+            "2iF52ioZBzeIEYG6fvpY7A9HzjWx": 1,
+            "udYCaFSZ06JKfUFILN1VNQl8N83T": 1,
+            "iGzUJZ44RC4zaaJ3w20AgwRHLVQU": 1,
+            "DAXnfUxBRNyA5Dps722j6wElq08N": 1,
+            "DIzLbqICpdCPCeTs5MRx1Qm63MCR": 1
+          },
+          "operations": {
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 2,
+            "Qiy0ZzBCoh0BHXuCkTLkbgtc2BpE": 1,
+            "ByCaTrPeEbaxso6mkMUlQA8ta7AM": 1,
+            "fBe6a0cVCTSjUqPSNijp0QugPoSG": 1,
+            "dWI3XwuxBl3zxRmBBtxAMArtdvqd": 1,
+            "Q8xYWhgtZAKEQur88IvuQQj8A5R4": 1,
+            "D6nIFBKbOMz01N9mabKeHw8ZJsnP": 1,
+            "gxqizCnKMU7lmZkfmOW6GQnzFEqS": 1,
+            "EEKxgV0yA0REBCDpwQV8HQToZwd8": 1,
+            "o90KuMAyqJ5MeTnw9RZkqgC1z8Ff": 1
+          },
+          "support": {
+            "JMe05VBLNEOBa4C9mGJ8wAMsnWUS": 1,
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 1,
+            "lUK6ONFpyoSrblOtVvQBBQ5iEFXu": 1,
+            "ByCaTrPeEbaxso6mkMUlQA8ta7AM": 1
+          },
+          "all": {
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 16,
+            "udYCaFSZ06JKfUFILN1VNQl8N83T": 8,
+            "yWcH1EiAH4BCKHMSP57f6wRIccqa": 4,
+            "vqaCT9TxRJ0dC744YrLHNA1NIdl3": 4,
+            "ByCaTrPeEbaxso6mkMUlQA8ta7AM": 3,
+            "asVNJDZzfwsZpZfk9dJNJwzQdct5": 3,
+            "dc4B4pJQJP94SIWTQN4xgQzgIG3L": 3,
+            "EEKxgV0yA0REBCDpwQV8HQToZwd8": 3,
+            "q9dK2WXoX3CC6B9nfAtljgGTIX32": 2,
+            "O7OWOaJcK8QyF8DbxgXmGQp39gE5": 2
+          },
+          "advisory": {
+            "dlic0HCjRrtnBs5Qk8JyHA01IQ7y": 1,
+            "j9mtyfc8nmEIUibDiU2k2wdCQKty": 1,
+            "KBVjB6yoKa8qlpJCB9dSRwTEmYoT": 1,
+            "N9iKoXmzjC9gpOJVMfrNXQmAjCR9": 1,
+            "YoNYH5xsD7Kx8TeGaVlNyg3deF0V": 1,
+            "yY33XhSrBwBUm6WUnrGV2QqwDgAO": 1,
+            "RWCJLtIjohYG72HayD2kTgxEoACJ": 1,
+            "lvHjWIPw0RKYguYyqsPFXAQfOoXc": 1,
+            "7RrmShxYucug2FsV0fIC7gY8sTbD": 1,
+            "zFufCP0qIwiCH7Ym4PTjeAtfrhG1": 1
+          },
+          "analyst": {
+            "14vsJLB1q91hOTl6RwLTsA1pFOIF": 1,
+            "Qh3GEa4VsBsJsstfaCAVEwUVCWNW": 1,
+            "owaqOBUmDKeWUL0ENXTKzwBwl6WD": 1,
+            "E33En1BC79vpLcvFkn1N5gDHWOBW": 1,
+            "X3U99D0N4YDXvl99KacVEwc7QXbt": 1,
+            "5OOmrfJ9d01aWqvtPyjugAEq0C9P": 1,
+            "udYCaFSZ06JKfUFILN1VNQl8N83T": 1,
+            "eKAcCYyd4hooCRMyGNr2DAWn1OLx": 1
+          },
+          "sales": {
+            "EEKxgV0yA0REBCDpwQV8HQToZwd8": 2,
+            "phbQwUubYqZl7nOUC0WFnAH89p5Y": 1,
+            "BNnBEHB7mZB671cGcgPE1grknBxI": 1,
+            "FgAUhE5Hy0GxwL7CUmFzcg6UrKfT": 1,
+            "AZC0zVyfCp5T0CP4eZ3NXAmiEEil": 1,
+            "2XgWJk5Ef9ZCOh3kqWHzNQ2fF1Vf": 1,
+            "HRqzHHBOBOweXHK35SQ0FADKXvlC": 1,
+            "KJG6Hjvc5HBYCliFUJF6Xw5Z9ZXB": 1,
+            "liYwKz6goqRhJCfL2VurNQHdzNfD": 1,
+            "A8v2cCbTiBVJ7hPpCSJCTAg7taIM": 1
+          }
+        },
+        "top_us_employee_metros": {
+          "district of columbia, united states": {
+            "current_headcount": 12,
+            "12_month_growth_rate": 0.5
+          },
+          "new york, new york, united states": {
+            "current_headcount": 2,
+            "12_month_growth_rate": 0
+          },
+          "san francisco, california, united states": {
+            "current_headcount": 2,
+            "12_month_growth_rate": 1
+          },
+          "san antonio, texas, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          },
+          "albany, new york, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          },
+          "denver, colorado, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": 0
+          },
+          "pittsburgh, pennsylvania, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": 0
+          },
+          "urban honolulu, hawaii, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": 0
+          },
+          "los angeles, california, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": 0
+          },
+          "charlottesville, virginia, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          }
+        },
+        "dataset_version": "v30.1"
+      },
+      {
+        "id": "IFd7hPBkEqqt6APJ2I1dsgnWtcdy",
+        "name": "happyrobot",
+        "display_name": "Happyrobot",
+        "size": "1-10",
+        "employee_count": 22,
+        "linkedin_follower_count": 9575,
+        "founded": 2022,
+        "inferred_revenue": "$10M-$25M",
+        "industry": "computer software",
+        "naics": null,
+        "sic": null,
+        "location": {
+          "name": "dover, delaware, united states",
+          "locality": "dover",
+          "region": "delaware",
+          "metro": "dover, delaware",
+          "country": "united states",
+          "continent": "north america",
+          "street_address": "1111b south governors avenue",
+          "address_line_2": "suite 6189",
+          "postal_code": "19904",
+          "geo": "39.16,-75.59"
+        },
+        "linkedin_id": "82462935",
+        "linkedin_url": "linkedin.com/company/happyrobot",
+        "linkedin_slug": "happyrobot",
+        "facebook_url": null,
+        "twitter_url": "twitter.com/happyrobot_ai",
+        "profiles": [
+          "linkedin.com/company/82462935",
+          "linkedin.com/company/happyrobot",
+          "twitter.com/happyrobot_ai",
+          "crunchbase.com/organization/happyrobot"
+        ],
+        "website": "happyrobot.ai",
+        "ticker": null,
+        "mic_exchange": null,
+        "type": "private",
+        "summary": "if you're a carrier or a freight broker, happyrobot automates your phone-based operations, offloading your team from the manual, repetitive phone calls no one wants to do, while increasing your productivity by 2-10x.\n\nrequest a demo at founders@happyrobot.ai",
+        "tags": null,
+        "headline": "AI voice assistants for the freight industry.",
+        "alternative_names": [],
+        "alternative_domains": [],
+        "affiliated_profiles": [],
+        "ultimate_parent": null,
+        "ultimate_parent_mic_exchange": null,
+        "ultimate_parent_ticker": null,
+        "immediate_parent": null,
+        "direct_subsidiaries": [],
+        "all_subsidiaries": [],
+        "total_funding_raised": 16723063,
+        "latest_funding_stage": "series_a",
+        "last_funding_date": "2024-12-04",
+        "number_funding_rounds": 3,
+        "funding_stages": [
+          "grant",
+          "pre_seed",
+          "series_a"
+        ],
+        "funding_details": [
+          {
+            "funding_currency": "usd",
+            "funding_raised": 1000000,
+            "funding_round_date": "2023-04-15",
+            "funding_type": "pre_seed",
+            "investing_companies": [
+              "3Fy8uDVUt20RDoMbbnP8ZgkeVzh2"
+            ],
+            "investing_individuals": []
+          },
+          {
+            "funding_currency": "usd",
+            "funding_raised": 123063,
+            "funding_round_date": "2022-07-01",
+            "funding_type": "grant",
+            "investing_companies": [],
+            "investing_individuals": []
+          },
+          {
+            "funding_currency": "usd",
+            "funding_raised": 15600000,
+            "funding_round_date": "2024-12-04",
+            "funding_type": "series_a",
+            "investing_companies": [
+              "3Fy8uDVUt20RDoMbbnP8ZgkeVzh2",
+              "1xJFYjurbJy1OUqmwhF76ADMReXB"
+            ],
+            "investing_individuals": []
+          }
+        ],
+        "average_employee_tenure": 0.787,
+        "average_tenure_by_role": {
+          "advisory": 0.667,
+          "trade": 0,
+          "manufacturing": 0,
+          "hospitality": 0,
+          "public_service": 0,
+          "support": 0,
+          "research": 0.5,
+          "product": 0,
+          "education": 3,
+          "human_resources": 0.25,
+          "legal": 0,
+          "operations": 2.125,
+          "fulfillment": 0,
+          "professional_service": 0.417,
+          "creative": 0,
+          "marketing": 0.5,
+          "partnerships": 0.667,
+          "sales_engineering": 0.667,
+          "sales": 0.292,
+          "health": 0,
+          "analyst": 0,
+          "finance": 0,
+          "engineering": 0.679
+        },
+        "average_tenure_by_level": {
+          "unpaid": 0,
+          "cxo": 0,
+          "partner": 0,
+          "owner": 2.667,
+          "director": 0.5,
+          "vp": 0,
+          "senior": 0.5,
+          "manager": 0.25,
+          "entry": 0,
+          "training": 0.444
+        },
+        "employee_churn_rate": {
+          "3_month": 0,
+          "6_month": 0,
+          "12_month": 0,
+          "24_month": 0
+        },
+        "employee_count_by_country": {
+          "germany": 1,
+          "netherlands": 1,
+          "poland": 1,
+          "spain": 2,
+          "united kingdom": 2,
+          "united states": 15
+        },
+        "employee_count_by_month": {
+          "2022-02": 1,
+          "2022-03": 1,
+          "2022-04": 2,
+          "2022-05": 3,
+          "2022-06": 3,
+          "2022-07": 3,
+          "2022-08": 4,
+          "2022-09": 4,
+          "2022-10": 4,
+          "2022-11": 3,
+          "2022-12": 3,
+          "2023-01": 4,
+          "2023-02": 4,
+          "2023-03": 13,
+          "2023-04": 13,
+          "2023-05": 15,
+          "2023-06": 15,
+          "2023-07": 15,
+          "2023-08": 14,
+          "2023-09": 8,
+          "2023-10": 6,
+          "2023-11": 5,
+          "2023-12": 5,
+          "2024-01": 5,
+          "2024-02": 5,
+          "2024-03": 6,
+          "2024-04": 6,
+          "2024-05": 8,
+          "2024-06": 8,
+          "2024-07": 9,
+          "2024-08": 9,
+          "2024-09": 13,
+          "2024-10": 12,
+          "2024-11": 14,
+          "2024-12": 15,
+          "2025-01": 17,
+          "2025-02": 21,
+          "2025-03": 22,
+          "2025-04": 22
+        },
+        "employee_count_by_role": {
+          "other_uncategorized": 4,
+          "advisory": 0,
+          "trade": 0,
+          "manufacturing": 0,
+          "hospitality": 0,
+          "public_service": 0,
+          "support": 0,
+          "research": 0,
+          "product": 0,
+          "education": 1,
+          "human_resources": 0,
+          "legal": 0,
+          "operations": 4,
+          "fulfillment": 0,
+          "professional_service": 0,
+          "creative": 0,
+          "marketing": 1,
+          "partnerships": 0,
+          "sales_engineering": 2,
+          "sales": 2,
+          "health": 0,
+          "analyst": 0,
+          "finance": 0,
+          "engineering": 8
+        },
+        "employee_count_by_sub_role": {
+          "other_uncategorized": 6,
+          "advisor": 0,
+          "board_member": 0,
+          "investor": 0,
+          "agriculture": 0,
+          "construction": 0,
+          "electric": 0,
+          "mechanic": 0,
+          "plumbing": 0,
+          "health_and_safety": 0,
+          "machinist": 0,
+          "quality_assurance": 0,
+          "restaurants": 0,
+          "retail": 0,
+          "emergency_services": 0,
+          "judicial": 0,
+          "military": 0,
+          "political": 0,
+          "protective_service": 0,
+          "social_service": 0,
+          "account_management": 0,
+          "customer_success": 0,
+          "customer_support": 0,
+          "fraud": 0,
+          "academic": 0,
+          "financial": 0,
+          "scientific": 0,
+          "product_design": 0,
+          "product_management": 0,
+          "curation": 0,
+          "primary_and_secondary": 0,
+          "professor": 0,
+          "student": 1,
+          "tour_and_travel": 0,
+          "human_resources": 0,
+          "recruiting": 0,
+          "talent_analytics": 0,
+          "training": 0,
+          "compliance": 0,
+          "legal": 0,
+          "administrative": 0,
+          "aides": 1,
+          "building_and_grounds": 0,
+          "corporate_development": 0,
+          "executive": 3,
+          "investor_relations": 0,
+          "strategy": 0,
+          "logistics": 0,
+          "project_management": 0,
+          "transport": 0,
+          "warehouse": 0,
+          "accounting_services": 0,
+          "architecture": 0,
+          "consulting": 0,
+          "investment_banking": 0,
+          "legal_services": 0,
+          "marketing_services": 0,
+          "translation": 0,
+          "artist": 0,
+          "entertainment": 0,
+          "fashion": 0,
+          "graphic_design": 0,
+          "hair_stylist": 0,
+          "journalism": 0,
+          "brand": 0,
+          "content": 0,
+          "growth": 1,
+          "marketing_design": 0,
+          "business_development": 0,
+          "partnerships": 0,
+          "implementation": 0,
+          "solutions_engineer": 2,
+          "account_executive": 1,
+          "insurance": 0,
+          "realtor": 0,
+          "sales_development": 1,
+          "dental": 0,
+          "doctor": 0,
+          "fitness": 0,
+          "nursing": 0,
+          "pharmacy": 0,
+          "therapy": 0,
+          "veterinarian": 0,
+          "wellness": 0,
+          "business_analyst": 0,
+          "data_analyst": 0,
+          "revenue_operations": 0,
+          "accounting": 0,
+          "bookkeeping": 0,
+          "procurement": 0,
+          "planning_and_analysis": 0,
+          "risk": 0,
+          "chemical": 0,
+          "data_engineering": 0,
+          "data_science": 4,
+          "devops": 0,
+          "electrical": 0,
+          "hardware": 0,
+          "industrial": 0,
+          "information_technology": 0,
+          "mechanical": 0,
+          "network": 0,
+          "qa_engineering": 0,
+          "security": 0,
+          "software": 2,
+          "web": 0
+        },
+        "employee_count_by_class": {
+          "other_uncategorized": 4,
+          "services": 1,
+          "general_and_administrative": 4,
+          "sales_and_marketing": 5,
+          "research_and_development": 8
+        },
+        "employee_count_by_month_by_level": {
+          "2022-02": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-03": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-04": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-05": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-06": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-07": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 1,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-08": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-09": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-10": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-11": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2022-12": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-01": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-02": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-03": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2023-04": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 2,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2023-05": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2023-06": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2023-07": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2023-08": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-09": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-10": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-11": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2023-12": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-01": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-02": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-03": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-04": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-05": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 2
+          },
+          "2024-06": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 2
+          },
+          "2024-07": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 2
+          },
+          "2024-08": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 2
+          },
+          "2024-09": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 2
+          },
+          "2024-10": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 0,
+            "vp": 0,
+            "senior": 0,
+            "manager": 0,
+            "entry": 0,
+            "training": 1
+          },
+          "2024-11": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2024-12": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-01": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 0,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-02": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-03": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          },
+          "2025-04": {
+            "unpaid": 0,
+            "cxo": 0,
+            "partner": 0,
+            "owner": 3,
+            "director": 1,
+            "vp": 0,
+            "senior": 1,
+            "manager": 1,
+            "entry": 0,
+            "training": 0
+          }
+        },
+        "employee_count_by_month_by_role": {
+          "2022-02": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2022-03": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2022-04": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-05": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-06": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-07": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 1,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-08": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-09": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-10": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2022-11": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2022-12": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-01": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-02": {
+            "other_uncategorized": 0,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 0
+          },
+          "2023-03": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 4
+          },
+          "2023-04": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 2,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 4
+          },
+          "2023-05": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 5
+          },
+          "2023-06": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 5
+          },
+          "2023-07": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 5
+          },
+          "2023-08": {
+            "other_uncategorized": 3,
+            "advisory": 1,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 1,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 4
+          },
+          "2023-09": {
+            "other_uncategorized": 1,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 2
+          },
+          "2023-10": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 1,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2023-11": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2023-12": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2024-01": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2024-02": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 1
+          },
+          "2024-03": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 2
+          },
+          "2024-04": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 2
+          },
+          "2024-05": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 1,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2024-06": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 1,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 3
+          },
+          "2024-07": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 1,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 4
+          },
+          "2024-08": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 1,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 0,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 4
+          },
+          "2024-09": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 1,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2024-10": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 3,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 0,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2024-11": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2024-12": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 1,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 0,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 6
+          },
+          "2025-01": {
+            "other_uncategorized": 0,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 1,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 1,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 7
+          },
+          "2025-02": {
+            "other_uncategorized": 2,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 1,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 2,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 8
+          },
+          "2025-03": {
+            "other_uncategorized": 4,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 2,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 8
+          },
+          "2025-04": {
+            "other_uncategorized": 4,
+            "advisory": 0,
+            "trade": 0,
+            "manufacturing": 0,
+            "hospitality": 0,
+            "public_service": 0,
+            "support": 0,
+            "research": 0,
+            "product": 0,
+            "education": 1,
+            "human_resources": 0,
+            "legal": 0,
+            "operations": 4,
+            "fulfillment": 0,
+            "professional_service": 0,
+            "creative": 0,
+            "marketing": 1,
+            "partnerships": 0,
+            "sales_engineering": 2,
+            "sales": 2,
+            "health": 0,
+            "analyst": 0,
+            "finance": 0,
+            "engineering": 8
+          }
+        },
+        "employee_growth_rate": {
+          "3_month": 0.2941,
+          "6_month": 0.8333,
+          "12_month": 2.6667,
+          "24_month": 0.6923
+        },
+        "employee_growth_rate_12_month_by_role": {
+          "other_uncategorized": null,
+          "advisory": null,
+          "trade": null,
+          "manufacturing": null,
+          "hospitality": null,
+          "public_service": null,
+          "support": null,
+          "research": null,
+          "product": null,
+          "education": 0,
+          "human_resources": null,
+          "legal": null,
+          "operations": 0.3333,
+          "fulfillment": null,
+          "professional_service": null,
+          "creative": null,
+          "marketing": null,
+          "partnerships": null,
+          "sales_engineering": null,
+          "sales": null,
+          "health": null,
+          "analyst": null,
+          "finance": null,
+          "engineering": 3
+        },
+        "employee_growth_rate_12_month_by_sub_role": {
+          "other_uncategorized": null,
+          "advisor": null,
+          "board_member": null,
+          "investor": null,
+          "agriculture": null,
+          "construction": null,
+          "electric": null,
+          "mechanic": null,
+          "plumbing": null,
+          "health_and_safety": null,
+          "machinist": null,
+          "quality_assurance": null,
+          "restaurants": null,
+          "retail": null,
+          "emergency_services": null,
+          "judicial": null,
+          "military": null,
+          "political": null,
+          "protective_service": null,
+          "social_service": null,
+          "account_management": null,
+          "customer_success": null,
+          "customer_support": null,
+          "fraud": null,
+          "academic": null,
+          "financial": null,
+          "scientific": null,
+          "product_design": null,
+          "product_management": null,
+          "curation": null,
+          "primary_and_secondary": null,
+          "professor": null,
+          "student": 0,
+          "tour_and_travel": null,
+          "human_resources": null,
+          "recruiting": null,
+          "talent_analytics": null,
+          "training": null,
+          "compliance": null,
+          "legal": null,
+          "administrative": null,
+          "aides": null,
+          "building_and_grounds": null,
+          "corporate_development": null,
+          "executive": 0,
+          "investor_relations": null,
+          "strategy": null,
+          "logistics": null,
+          "project_management": null,
+          "transport": null,
+          "warehouse": null,
+          "accounting_services": null,
+          "architecture": null,
+          "consulting": null,
+          "investment_banking": null,
+          "legal_services": null,
+          "marketing_services": null,
+          "translation": null,
+          "artist": null,
+          "entertainment": null,
+          "fashion": null,
+          "graphic_design": null,
+          "hair_stylist": null,
+          "journalism": null,
+          "brand": null,
+          "content": null,
+          "growth": null,
+          "marketing_design": null,
+          "business_development": null,
+          "partnerships": null,
+          "implementation": null,
+          "solutions_engineer": null,
+          "account_executive": null,
+          "insurance": null,
+          "realtor": null,
+          "sales_development": null,
+          "dental": null,
+          "doctor": null,
+          "fitness": null,
+          "nursing": null,
+          "pharmacy": null,
+          "therapy": null,
+          "veterinarian": null,
+          "wellness": null,
+          "business_analyst": null,
+          "data_analyst": null,
+          "revenue_operations": null,
+          "accounting": null,
+          "bookkeeping": null,
+          "procurement": null,
+          "planning_and_analysis": null,
+          "risk": null,
+          "chemical": null,
+          "data_engineering": null,
+          "data_science": 3,
+          "devops": null,
+          "electrical": null,
+          "hardware": null,
+          "industrial": null,
+          "information_technology": null,
+          "mechanical": null,
+          "network": null,
+          "qa_engineering": null,
+          "security": null,
+          "software": 1,
+          "web": null
+        },
+        "employee_growth_rate_12_month_by_class": {
+          "other_uncategorized": null,
+          "services": 0,
+          "general_and_administrative": 0.3333,
+          "sales_and_marketing": null,
+          "research_and_development": 3
+        },
+        "gross_additions_by_month": {
+          "2022-02": 1,
+          "2022-03": 0,
+          "2022-04": 1,
+          "2022-05": 1,
+          "2022-06": 0,
+          "2022-07": 0,
+          "2022-08": 1,
+          "2022-09": 0,
+          "2022-10": 0,
+          "2022-11": 0,
+          "2022-12": 0,
+          "2023-01": 1,
+          "2023-02": 0,
+          "2023-03": 9,
+          "2023-04": 0,
+          "2023-05": 2,
+          "2023-06": 0,
+          "2023-07": 0,
+          "2023-08": 0,
+          "2023-09": 0,
+          "2023-10": 0,
+          "2023-11": 0,
+          "2023-12": 0,
+          "2024-01": 0,
+          "2024-02": 0,
+          "2024-03": 1,
+          "2024-04": 0,
+          "2024-05": 2,
+          "2024-06": 0,
+          "2024-07": 1,
+          "2024-08": 0,
+          "2024-09": 4,
+          "2024-10": 0,
+          "2024-11": 3,
+          "2024-12": 1,
+          "2025-01": 2,
+          "2025-02": 4,
+          "2025-03": 2,
+          "2025-04": 0
+        },
+        "gross_departures_by_month": {
+          "2022-10": 1,
+          "2022-11": 0,
+          "2022-12": 0,
+          "2023-01": 0,
+          "2023-02": 0,
+          "2023-03": 0,
+          "2023-04": 0,
+          "2023-05": 0,
+          "2023-06": 0,
+          "2023-07": 1,
+          "2023-08": 6,
+          "2023-09": 2,
+          "2023-10": 1,
+          "2023-11": 0,
+          "2023-12": 0,
+          "2024-01": 0,
+          "2024-02": 0,
+          "2024-03": 0,
+          "2024-04": 0,
+          "2024-05": 0,
+          "2024-06": 0,
+          "2024-07": 0,
+          "2024-08": 0,
+          "2024-09": 1,
+          "2024-10": 1,
+          "2024-11": 0,
+          "2024-12": 0,
+          "2025-01": 0,
+          "2025-02": 1,
+          "2025-03": 0,
+          "2025-04": 0
+        },
+        "recent_exec_departures": [],
+        "recent_exec_hires": [],
+        "top_next_employers": {
+          "engineering": [
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 2,
+              "display_name": "Technische Universität München"
+            },
+            {
+              "id": "LMCICinFinrJ1i4MyYdj3Qi8UZF8",
+              "count": 1,
+              "display_name": "Olive Robotics"
+            },
+            {
+              "id": "0hyGSG2eICEjcbvu4OQxqQCgOdHe",
+              "count": 1,
+              "display_name": "Motius"
+            },
+            {
+              "id": "By8iUAwVJKksBkXOd99dIgFT1G0v",
+              "count": 1,
+              "display_name": "SprintEins GmbH"
+            },
+            {
+              "id": "6p6B59rWrNMqY6dd0ZBEjQzaPIbt",
+              "count": 1,
+              "display_name": "BSH Home Appliances Group"
+            },
+            {
+              "id": "QAqM4WtkkKIbkCAbZDjFxAO6vRDO",
+              "count": 1,
+              "display_name": "ReDI School of Digital Integration"
+            },
+            {
+              "id": "GLCeHf9aLBElv4kCWkO84AYC3SLL",
+              "count": 1,
+              "display_name": "Adastra"
+            },
+            {
+              "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+              "count": 1,
+              "display_name": "Siemens"
+            },
+            {
+              "id": "KFqYCoqEN3gOxeNwW4Ip3Qo1v2fp",
+              "count": 1,
+              "display_name": "Magazino – a Jungheinrich company"
+            }
+          ],
+          "human_resources": [
+            {
+              "id": "IcH6CZPzT9f9XNOX2AUj7geDO09V",
+              "count": 1,
+              "display_name": "SingleSprout"
+            }
+          ],
+          "all": [
+            {
+              "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+              "count": 2,
+              "display_name": "Siemens"
+            },
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 2,
+              "display_name": "Technische Universität München"
+            },
+            {
+              "id": "QAqM4WtkkKIbkCAbZDjFxAO6vRDO",
+              "count": 1,
+              "display_name": "ReDI School of Digital Integration"
+            },
+            {
+              "id": "8TgwPCgJ7BvFH4Wmh9872ARNbUsd",
+              "count": 1,
+              "display_name": "Rohde & Schwarz"
+            },
+            {
+              "id": "6p6B59rWrNMqY6dd0ZBEjQzaPIbt",
+              "count": 1,
+              "display_name": "BSH Home Appliances Group"
+            },
+            {
+              "id": "iksxCiYPBhMv0GGvAOunPgCklVAb",
+              "count": 1,
+              "display_name": "IE University"
+            },
+            {
+              "id": "1WHeVJtNquDL54d1SuAYvQeOXcXb",
+              "count": 1,
+              "display_name": "Essity"
+            },
+            {
+              "id": "0hyGSG2eICEjcbvu4OQxqQCgOdHe",
+              "count": 1,
+              "display_name": "Motius"
+            },
+            {
+              "id": "GLCeHf9aLBElv4kCWkO84AYC3SLL",
+              "count": 1,
+              "display_name": "Adastra"
+            },
+            {
+              "id": "VmeQpztSECAuXe6vCtudjweozO0Y",
+              "count": 1,
+              "display_name": "TUM Business Game"
+            }
+          ],
+          "advisory": [
+            {
+              "id": "iksxCiYPBhMv0GGvAOunPgCklVAb",
+              "count": 1,
+              "display_name": "IE University"
+            },
+            {
+              "id": "oeF9t9JlvU8OvRMhHRxxOA2Zhvok",
+              "count": 1,
+              "display_name": "ESADE Business & Law School"
+            }
+          ],
+          "research": [
+            {
+              "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+              "count": 1,
+              "display_name": "Siemens"
+            }
+          ],
+          "professional_service": [
+            {
+              "id": "o31ClvUqDDG9yxeh9KlgqQcb49N2",
+              "count": 1,
+              "display_name": "Berkeley Artificial Intelligence Research"
+            },
+            {
+              "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+              "count": 1,
+              "display_name": "Nielsen"
+            },
+            {
+              "id": "SLgd88Xt9YznxtvwCPhXdwSE9Orq",
+              "count": 1,
+              "display_name": "GitHub"
+            }
+          ]
+        },
+        "top_previous_employers": {
+          "sales": [
+            {
+              "id": "p05JRPBBUmr9E3oybUPCCghs8Bbt",
+              "count": 1,
+              "display_name": "Farm'd"
+            },
+            {
+              "id": "3wCxR12A1GJDEEjak65bSwZE9CoD",
+              "count": 1,
+              "display_name": "Martis Camp Club & Community Association"
+            },
+            {
+              "id": "Cp88v83GzBsZ1dH1bsSMRARwyoTF",
+              "count": 1,
+              "display_name": "Bitoro Labs"
+            },
+            {
+              "id": "JfCRm5DUX58Oud2NIoB7zQadaA7J",
+              "count": 1,
+              "display_name": "Samsara"
+            },
+            {
+              "id": "6cFXMuTd93kMaCPOBJEBFQgRKQ5M",
+              "count": 1,
+              "display_name": "Sunnyside Marina & Resort Lake Tahoe"
+            },
+            {
+              "id": "1CMgVz9qvtiIwHGTEupKUgO3VHGT",
+              "count": 1,
+              "display_name": "ProducePay"
+            },
+            {
+              "id": "bgxWxi55UICKhhCHbvYCGgtX4zls",
+              "count": 1,
+              "display_name": "ServiceMobi"
+            },
+            {
+              "id": "6nvvgL7tPTVPLCBwRqePPAmImIeK",
+              "count": 1,
+              "display_name": "Parklync"
+            },
+            {
+              "id": "LHrluq7gqZnGGKwZ7zW7nQgZfpmw",
+              "count": 1,
+              "display_name": "Holabird's Western Americana Collections LLC"
+            },
+            {
+              "id": "oeVjJ5Pf2HCGRlTwjvjCBg3agVzk",
+              "count": 1,
+              "display_name": "ETHGlobal"
+            }
+          ],
+          "research": [
+            {
+              "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+              "count": 1,
+              "display_name": "Siemens"
+            },
+            {
+              "id": "TlWCxKCPEuUbH00HtMW5vwjZexGW",
+              "count": 1,
+              "display_name": "SPIE Industry Service & Wind"
+            }
+          ],
+          "engineering": [
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 2,
+              "display_name": "Technische Universität München"
+            },
+            {
+              "id": "PmTEypIReoEg88IOtSIUQwsH3mmu",
+              "count": 1,
+              "display_name": "StratLytics Consulting"
+            },
+            {
+              "id": "9SoUT1dDrHVzD15hEB8MiQv8Jnj9",
+              "count": 1,
+              "display_name": "Whatnot"
+            },
+            {
+              "id": "lOShIhlblJgKQRgNt0OobgF8XAgG",
+              "count": 1,
+              "display_name": "E-Cell IIT Madras"
+            },
+            {
+              "id": "CqfF17fuupSUN8NHhiBAhwyOEw53",
+              "count": 1,
+              "display_name": "Business Professionals of America"
+            },
+            {
+              "id": "2biMAZpYO3LEq7ZcSxnUdwE2i1Iq",
+              "count": 1,
+              "display_name": "Camaleonic Analytics"
+            },
+            {
+              "id": "BW0mmkySdQT80dC3ktfb2QnzoHPA",
+              "count": 1,
+              "display_name": "Docker, Inc"
+            },
+            {
+              "id": "gvCatFPlnCRwuvSLjR6FhgalwduT",
+              "count": 1,
+              "display_name": "TroyLabs"
+            },
+            {
+              "id": "of6hOlbp3Z8BHcjZCfKS1w7VAgHA",
+              "count": 1,
+              "display_name": "Konrad Group"
+            },
+            {
+              "id": "hWBI7x4FvSurVNWDXD4uFgQt5ges",
+              "count": 1,
+              "display_name": "Amazon"
+            }
+          ],
+          "advisory": [
+            {
+              "id": "BDA9CZBt8vGuHvInWyGM6w6T3qcD",
+              "count": 1,
+              "display_name": "Delphi"
+            },
+            {
+              "id": "7Q8N77xXT9TvmJSmYM1Jbg3ewb3o",
+              "count": 1,
+              "display_name": "Universitat Autònoma de Barcelona"
+            },
+            {
+              "id": "yBWyd6PkpzZmyCjQuLX3sgBT9MUG",
+              "count": 1,
+              "display_name": "Satellogic"
+            },
+            {
+              "id": "yWp5DCB08JIrMOjMtVtJcAOpgGiI",
+              "count": 1,
+              "display_name": "Starlab Barcelona S.L."
+            },
+            {
+              "id": "uaTsVJWQ47yIYth9DNc6kAIZ4JyG",
+              "count": 1,
+              "display_name": "Universitat Oberta de Catalunya (UOC)"
+            },
+            {
+              "id": "ZIkplOfcLgAR71nBUWRToAk4fdOD",
+              "count": 1,
+              "display_name": "Massachusetts Institute of Technology (MIT)"
+            }
+          ],
+          "sales_engineering": [
+            {
+              "id": "LoAeb2Zb9OMkrrl86nwEqwOpLd6c",
+              "count": 1,
+              "display_name": "Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)"
+            },
+            {
+              "id": "lBBbcKkqA6HEYVV3fYdi7gbNGQO9",
+              "count": 1,
+              "display_name": "IBM"
+            },
+            {
+              "id": "bMcvoPIGPeLtjCHCZswgvQDB3BiX",
+              "count": 1,
+              "display_name": "Queen's Machine Intelligence and Neuroevolution Design (QMIND)"
+            },
+            {
+              "id": "HL44HTEwiwlWOHQD5JP2xAN0UQHT",
+              "count": 1,
+              "display_name": "CERN"
+            },
+            {
+              "id": "w1aktE82prBR305f75Y90QrgASRy",
+              "count": 1,
+              "display_name": "Etelätär Innovation"
+            },
+            {
+              "id": "ITn9LaIa41c8I0ga7aPUuQ2iRpn3",
+              "count": 1,
+              "display_name": "Instituto de Investigación Tecnológica"
+            },
+            {
+              "id": "NbHQuZTVQ02RzlScdysDzQMSLVIr",
+              "count": 1,
+              "display_name": "Stemy Energy"
+            },
+            {
+              "id": "TGC4SerOmAMBXKCsBxiITQKBRpgZ",
+              "count": 1,
+              "display_name": "Queen's Women in Computing"
+            },
+            {
+              "id": "8Rt4AcnFOFBEmCfeYKe7Vwe7NVoj",
+              "count": 1,
+              "display_name": "Shared Services Canada | Services partagés Canada"
+            },
+            {
+              "id": "HEYpqNPDlrq3dXGbJFE09Q8DI7P6",
+              "count": 1,
+              "display_name": "Universidad Pontificia Comillas"
+            }
+          ],
+          "human_resources": [
+            {
+              "id": "IcH6CZPzT9f9XNOX2AUj7geDO09V",
+              "count": 1,
+              "display_name": "SingleSprout"
+            }
+          ],
+          "partnerships": [
+            {
+              "id": "aY0bf55CCH1U3B2dpf1KUg6QkP89",
+              "count": 1,
+              "display_name": "VIU Eyewear"
+            },
+            {
+              "id": "th695iKVGD0V6XuBBO4ttgx1izCz",
+              "count": 1,
+              "display_name": "Flaconi"
+            },
+            {
+              "id": "HOzveQHKlGfiDf1ns3CMRQfDtEwr",
+              "count": 1,
+              "display_name": "FRR"
+            }
+          ],
+          "operations": [
+            {
+              "id": "ZE8dd2nWALDvRJoaWbO4OAFtkqih",
+              "count": 2,
+              "display_name": "IPB Systems"
+            },
+            {
+              "id": "LXZstH0QnNPqwpylB4s8kQxzpCCD",
+              "count": 2,
+              "display_name": "Robdos Team Underwater Robotics"
+            },
+            {
+              "id": "lKmKhKackaivRHvHsHXsOAkgeRZA",
+              "count": 1,
+              "display_name": "Blackstone"
+            },
+            {
+              "id": "Gm7vfasxvdxjYP55BTbiUAZnzkpT",
+              "count": 1,
+              "display_name": "Boston Consulting Group (BCG)"
+            },
+            {
+              "id": "2QRMLvIWyryN3yjfNbzgCApbEblu",
+              "count": 1,
+              "display_name": "Portobello Capital"
+            },
+            {
+              "id": "70nzCw7sDM5NXh26TyUWUQMJdOcq",
+              "count": 1,
+              "display_name": "Goldman Sachs"
+            },
+            {
+              "id": "EyWCGfUy1Xf29qBoP2TW8ATRRvMt",
+              "count": 1,
+              "display_name": "Hewlett Packard Enterprise"
+            },
+            {
+              "id": "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ",
+              "count": 1,
+              "display_name": "Deoleo"
+            },
+            {
+              "id": "6xAWWNR7En1ASYSknvcC1wqfklsf",
+              "count": 1,
+              "display_name": "ICEX"
+            },
+            {
+              "id": "gnufuBwyg4n61Ke1Ly1MWw8fUoVQ",
+              "count": 1,
+              "display_name": "BODEBOCA"
+            }
+          ],
+          "professional_service": [
+            {
+              "id": "githDnxbJb8ZnwdWpXbL5QsT5Mm0",
+              "count": 1,
+              "display_name": "Morgan Stanley"
+            },
+            {
+              "id": "IZ9VhIozCdNUjWvUbQLbcAuHsuMM",
+              "count": 1,
+              "display_name": "Wayzata Capital LLC"
+            },
+            {
+              "id": "Iar8JCXJ2gR93ZiKypUHWwH9Wk3Z",
+              "count": 1,
+              "display_name": "The University of Texas at Dallas"
+            },
+            {
+              "id": "p50nR4gscKofgdcwwqbsFg8RNudr",
+              "count": 1,
+              "display_name": "Daicus Technology"
+            },
+            {
+              "id": "S3TwIKD5giFHERfdwnHMqQ0yXtd3",
+              "count": 1,
+              "display_name": "The Economist"
+            },
+            {
+              "id": "WibCBirlW1jjvBgUKto6NAG3AGTg",
+              "count": 1,
+              "display_name": "Berkeley Business Society"
+            }
+          ],
+          "all": [
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 4,
+              "display_name": "Technische Universität München"
+            },
+            {
+              "id": "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ",
+              "count": 2,
+              "display_name": "Deoleo"
+            },
+            {
+              "id": "LXZstH0QnNPqwpylB4s8kQxzpCCD",
+              "count": 2,
+              "display_name": "Robdos Team Underwater Robotics"
+            },
+            {
+              "id": "NbHQuZTVQ02RzlScdysDzQMSLVIr",
+              "count": 2,
+              "display_name": "Stemy Energy"
+            },
+            {
+              "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+              "count": 2,
+              "display_name": "Siemens"
+            },
+            {
+              "id": "RjhjJnYUCiAfXFyxCHLDQQ5opPrK",
+              "count": 2,
+              "display_name": "Meta"
+            },
+            {
+              "id": "ZE8dd2nWALDvRJoaWbO4OAFtkqih",
+              "count": 2,
+              "display_name": "IPB Systems"
+            },
+            {
+              "id": "gIFYb9aWVyuD6S2amyDb4gp0M9E2",
+              "count": 1,
+              "display_name": "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación"
+            },
+            {
+              "id": "TlWCxKCPEuUbH00HtMW5vwjZexGW",
+              "count": 1,
+              "display_name": "SPIE Industry Service & Wind"
+            },
+            {
+              "id": "Lz8zdn9dqCqHfaAT3BEIHgX6fTLo",
+              "count": 1,
+              "display_name": "Saarang"
+            }
+          ],
+          "marketing": [
+            {
+              "id": "IYCWb7y5GyBIcNzBKRqTIgm0TdKr",
+              "count": 1,
+              "display_name": "Girlstart"
+            },
+            {
+              "id": "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ",
+              "count": 1,
+              "display_name": "Deoleo"
+            },
+            {
+              "id": "UDmvyAKgfsUyFLd34BWfDwyEcuFD",
+              "count": 1,
+              "display_name": "Polymer"
+            }
+          ]
+        },
+        "top_next_employers_12_month": {
+          "all": [
+            {
+              "id": "1WHeVJtNquDL54d1SuAYvQeOXcXb",
+              "count": 1,
+              "display_name": "Essity"
+            },
+            {
+              "id": "o31ClvUqDDG9yxeh9KlgqQcb49N2",
+              "count": 1,
+              "display_name": "Berkeley Artificial Intelligence Research"
+            },
+            {
+              "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+              "count": 1,
+              "display_name": "Nielsen"
+            },
+            {
+              "id": "63TgqKVrv1QKHiGhbBQ9DglZqUZZ",
+              "count": 1,
+              "display_name": "PARADOX CAT GmbH"
+            },
+            {
+              "id": "QAqM4WtkkKIbkCAbZDjFxAO6vRDO",
+              "count": 1,
+              "display_name": "ReDI School of Digital Integration"
+            },
+            {
+              "id": "0N5Wu8pv7qDCRsZo70gdugD6D0SS",
+              "count": 1,
+              "display_name": "Agile Robots AG"
+            },
+            {
+              "id": "SLgd88Xt9YznxtvwCPhXdwSE9Orq",
+              "count": 1,
+              "display_name": "GitHub"
+            },
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 1,
+              "display_name": "Technische Universität München"
+            },
+            {
+              "id": "IcH6CZPzT9f9XNOX2AUj7geDO09V",
+              "count": 1,
+              "display_name": "SingleSprout"
+            },
+            {
+              "id": "VmeQpztSECAuXe6vCtudjweozO0Y",
+              "count": 1,
+              "display_name": "TUM Business Game"
+            }
+          ],
+          "advisory": [
+            {
+              "id": "oeF9t9JlvU8OvRMhHRxxOA2Zhvok",
+              "count": 1,
+              "display_name": "ESADE Business & Law School"
+            }
+          ],
+          "professional_service": [
+            {
+              "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+              "count": 1,
+              "display_name": "Nielsen"
+            },
+            {
+              "id": "o31ClvUqDDG9yxeh9KlgqQcb49N2",
+              "count": 1,
+              "display_name": "Berkeley Artificial Intelligence Research"
+            },
+            {
+              "id": "SLgd88Xt9YznxtvwCPhXdwSE9Orq",
+              "count": 1,
+              "display_name": "GitHub"
+            }
+          ],
+          "human_resources": [
+            {
+              "id": "IcH6CZPzT9f9XNOX2AUj7geDO09V",
+              "count": 1,
+              "display_name": "SingleSprout"
+            }
+          ],
+          "engineering": [
+            {
+              "id": "QAqM4WtkkKIbkCAbZDjFxAO6vRDO",
+              "count": 1,
+              "display_name": "ReDI School of Digital Integration"
+            },
+            {
+              "id": "0hyGSG2eICEjcbvu4OQxqQCgOdHe",
+              "count": 1,
+              "display_name": "Motius"
+            },
+            {
+              "id": "fycXJkHsHukObD8p0CXo7g6zX2kS",
+              "count": 1,
+              "display_name": "Technische Universität München"
+            }
+          ]
+        },
+        "top_previous_employers_12_month": {
+          "operations": [
+            {
+              "id": "lKmKhKackaivRHvHsHXsOAkgeRZA",
+              "count": 1,
+              "display_name": "Blackstone"
+            }
+          ],
+          "marketing": [
+            {
+              "id": "UDmvyAKgfsUyFLd34BWfDwyEcuFD",
+              "count": 1,
+              "display_name": "Polymer"
+            }
+          ],
+          "sales": [
+            {
+              "id": "Cp88v83GzBsZ1dH1bsSMRARwyoTF",
+              "count": 1,
+              "display_name": "Bitoro Labs"
+            },
+            {
+              "id": "oeVjJ5Pf2HCGRlTwjvjCBg3agVzk",
+              "count": 1,
+              "display_name": "ETHGlobal"
+            },
+            {
+              "id": "BVw5SKjG4vKyuGZxfA1Chw0IfuyF",
+              "count": 1,
+              "display_name": "Trextel"
+            },
+            {
+              "id": "JfCRm5DUX58Oud2NIoB7zQadaA7J",
+              "count": 1,
+              "display_name": "Samsara"
+            }
+          ],
+          "engineering": [
+            {
+              "id": "HIVkcUchfoTNl3H1aFXNQQD1fOiN",
+              "count": 1,
+              "display_name": "Trojan Marketing Group"
+            },
+            {
+              "id": "BW0mmkySdQT80dC3ktfb2QnzoHPA",
+              "count": 1,
+              "display_name": "Docker, Inc"
+            },
+            {
+              "id": "NbHQuZTVQ02RzlScdysDzQMSLVIr",
+              "count": 1,
+              "display_name": "Stemy Energy"
+            },
+            {
+              "id": "lWtLBvQ0cGrwYZYqeBOXBgcnlwV2",
+              "count": 1,
+              "display_name": "Cisco"
+            },
+            {
+              "id": "KU540tqAqCV8YBk57vBCVwHqFhEI",
+              "count": 1,
+              "display_name": "Uber"
+            },
+            {
+              "id": "cSb4OcnOlJ9ZuFZFCQMvVAihVPdb",
+              "count": 1,
+              "display_name": "Maaind"
+            },
+            {
+              "id": "VBhWMQBWxIrbQpefM0PMWgMtUpxM",
+              "count": 1,
+              "display_name": "ProductSC"
+            },
+            {
+              "id": "9SoUT1dDrHVzD15hEB8MiQv8Jnj9",
+              "count": 1,
+              "display_name": "Whatnot"
+            },
+            {
+              "id": "xG7Ca1ZdR2JehF5R62emwQ3yr2u6",
+              "count": 1,
+              "display_name": "AppFolio"
+            },
+            {
+              "id": "b627QSTvPfKEkBAHvVN7uQrMRAWD",
+              "count": 1,
+              "display_name": "Scale AI"
+            }
+          ],
+          "professional_service": [
+            {
+              "id": "p50nR4gscKofgdcwwqbsFg8RNudr",
+              "count": 1,
+              "display_name": "Daicus Technology"
+            },
+            {
+              "id": "S3TwIKD5giFHERfdwnHMqQ0yXtd3",
+              "count": 1,
+              "display_name": "The Economist"
+            }
+          ],
+          "human_resources": [
+            {
+              "id": "IcH6CZPzT9f9XNOX2AUj7geDO09V",
+              "count": 1,
+              "display_name": "SingleSprout"
+            }
+          ],
+          "sales_engineering": [
+            {
+              "id": "HEYpqNPDlrq3dXGbJFE09Q8DI7P6",
+              "count": 1,
+              "display_name": "Universidad Pontificia Comillas"
+            },
+            {
+              "id": "lBBbcKkqA6HEYVV3fYdi7gbNGQO9",
+              "count": 1,
+              "display_name": "IBM"
+            },
+            {
+              "id": "NbHQuZTVQ02RzlScdysDzQMSLVIr",
+              "count": 1,
+              "display_name": "Stemy Energy"
+            }
+          ],
+          "all": [
+            {
+              "id": "NbHQuZTVQ02RzlScdysDzQMSLVIr",
+              "count": 2,
+              "display_name": "Stemy Energy"
+            },
+            {
+              "id": "xG7Ca1ZdR2JehF5R62emwQ3yr2u6",
+              "count": 1,
+              "display_name": "AppFolio"
+            },
+            {
+              "id": "fEPRCBry0sXLa6iQqQv7oAUFZ5xY",
+              "count": 1,
+              "display_name": "Ferrari"
+            },
+            {
+              "id": "lWtLBvQ0cGrwYZYqeBOXBgcnlwV2",
+              "count": 1,
+              "display_name": "Cisco"
+            },
+            {
+              "id": "JfCRm5DUX58Oud2NIoB7zQadaA7J",
+              "count": 1,
+              "display_name": "Samsara"
+            },
+            {
+              "id": "B9NAoJJ9b9vTMArKk2cKug1tFlpB",
+              "count": 1,
+              "display_name": "Matthews Real Estate Investment Services™"
+            },
+            {
+              "id": "BW0mmkySdQT80dC3ktfb2QnzoHPA",
+              "count": 1,
+              "display_name": "Docker, Inc"
+            },
+            {
+              "id": "lKmKhKackaivRHvHsHXsOAkgeRZA",
+              "count": 1,
+              "display_name": "Blackstone"
+            },
+            {
+              "id": "b627QSTvPfKEkBAHvVN7uQrMRAWD",
+              "count": 1,
+              "display_name": "Scale AI"
+            },
+            {
+              "id": "9SoUT1dDrHVzD15hEB8MiQv8Jnj9",
+              "count": 1,
+              "display_name": "Whatnot"
+            }
+          ]
+        },
+        "top_next_employers_by_role": {
+          "professional_service": {
+            "SLgd88Xt9YznxtvwCPhXdwSE9Orq": 1,
+            "S8rCktPoePDCQt6tBjL9Gg1UMZG7": 1,
+            "o31ClvUqDDG9yxeh9KlgqQcb49N2": 1
+          },
+          "human_resources": {
+            "IcH6CZPzT9f9XNOX2AUj7geDO09V": 1
+          },
+          "advisory": {
+            "iksxCiYPBhMv0GGvAOunPgCklVAb": 1,
+            "oeF9t9JlvU8OvRMhHRxxOA2Zhvok": 1
+          },
+          "research": {
+            "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q": 1
+          },
+          "engineering": {
+            "fycXJkHsHukObD8p0CXo7g6zX2kS": 2,
+            "GLCeHf9aLBElv4kCWkO84AYC3SLL": 1,
+            "KFqYCoqEN3gOxeNwW4Ip3Qo1v2fp": 1,
+            "0hyGSG2eICEjcbvu4OQxqQCgOdHe": 1,
+            "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q": 1,
+            "QAqM4WtkkKIbkCAbZDjFxAO6vRDO": 1,
+            "LMCICinFinrJ1i4MyYdj3Qi8UZF8": 1,
+            "By8iUAwVJKksBkXOd99dIgFT1G0v": 1,
+            "6p6B59rWrNMqY6dd0ZBEjQzaPIbt": 1
+          },
+          "all": {
+            "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q": 2,
+            "fycXJkHsHukObD8p0CXo7g6zX2kS": 2,
+            "S8rCktPoePDCQt6tBjL9Gg1UMZG7": 1,
+            "KFqYCoqEN3gOxeNwW4Ip3Qo1v2fp": 1,
+            "By8iUAwVJKksBkXOd99dIgFT1G0v": 1,
+            "GLCeHf9aLBElv4kCWkO84AYC3SLL": 1,
+            "oeF9t9JlvU8OvRMhHRxxOA2Zhvok": 1,
+            "SLgd88Xt9YznxtvwCPhXdwSE9Orq": 1,
+            "63TgqKVrv1QKHiGhbBQ9DglZqUZZ": 1,
+            "o31ClvUqDDG9yxeh9KlgqQcb49N2": 1
+          }
+        },
+        "top_previous_employers_by_role": {
+          "sales_engineering": {
+            "lBBbcKkqA6HEYVV3fYdi7gbNGQO9": 1,
+            "NbHQuZTVQ02RzlScdysDzQMSLVIr": 1,
+            "w1aktE82prBR305f75Y90QrgASRy": 1,
+            "ITn9LaIa41c8I0ga7aPUuQ2iRpn3": 1,
+            "HL44HTEwiwlWOHQD5JP2xAN0UQHT": 1,
+            "8Rt4AcnFOFBEmCfeYKe7Vwe7NVoj": 1,
+            "HEYpqNPDlrq3dXGbJFE09Q8DI7P6": 1,
+            "bMcvoPIGPeLtjCHCZswgvQDB3BiX": 1,
+            "TGC4SerOmAMBXKCsBxiITQKBRpgZ": 1,
+            "LoAeb2Zb9OMkrrl86nwEqwOpLd6c": 1
+          },
+          "operations": {
+            "LXZstH0QnNPqwpylB4s8kQxzpCCD": 2,
+            "ZE8dd2nWALDvRJoaWbO4OAFtkqih": 2,
+            "Gm7vfasxvdxjYP55BTbiUAZnzkpT": 1,
+            "fycXJkHsHukObD8p0CXo7g6zX2kS": 1,
+            "EyWCGfUy1Xf29qBoP2TW8ATRRvMt": 1,
+            "2QRMLvIWyryN3yjfNbzgCApbEblu": 1,
+            "lKmKhKackaivRHvHsHXsOAkgeRZA": 1,
+            "70nzCw7sDM5NXh26TyUWUQMJdOcq": 1,
+            "gnufuBwyg4n61Ke1Ly1MWw8fUoVQ": 1,
+            "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ": 1
+          },
+          "research": {
+            "TlWCxKCPEuUbH00HtMW5vwjZexGW": 1,
+            "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q": 1
+          },
+          "advisory": {
+            "yBWyd6PkpzZmyCjQuLX3sgBT9MUG": 1,
+            "BDA9CZBt8vGuHvInWyGM6w6T3qcD": 1,
+            "7Q8N77xXT9TvmJSmYM1Jbg3ewb3o": 1,
+            "uaTsVJWQ47yIYth9DNc6kAIZ4JyG": 1,
+            "yWp5DCB08JIrMOjMtVtJcAOpgGiI": 1,
+            "ZIkplOfcLgAR71nBUWRToAk4fdOD": 1
+          },
+          "professional_service": {
+            "S3TwIKD5giFHERfdwnHMqQ0yXtd3": 1,
+            "githDnxbJb8ZnwdWpXbL5QsT5Mm0": 1,
+            "WibCBirlW1jjvBgUKto6NAG3AGTg": 1,
+            "IZ9VhIozCdNUjWvUbQLbcAuHsuMM": 1,
+            "Iar8JCXJ2gR93ZiKypUHWwH9Wk3Z": 1,
+            "p50nR4gscKofgdcwwqbsFg8RNudr": 1
+          },
+          "sales": {
+            "BVw5SKjG4vKyuGZxfA1Chw0IfuyF": 1,
+            "JfCRm5DUX58Oud2NIoB7zQadaA7J": 1,
+            "6cFXMuTd93kMaCPOBJEBFQgRKQ5M": 1,
+            "bgxWxi55UICKhhCHbvYCGgtX4zls": 1,
+            "x46yUy4OEsfQ424jJ1XBfQnlJlVF": 1,
+            "oeVjJ5Pf2HCGRlTwjvjCBg3agVzk": 1,
+            "p05JRPBBUmr9E3oybUPCCghs8Bbt": 1,
+            "LHrluq7gqZnGGKwZ7zW7nQgZfpmw": 1,
+            "1CMgVz9qvtiIwHGTEupKUgO3VHGT": 1,
+            "Cp88v83GzBsZ1dH1bsSMRARwyoTF": 1
+          },
+          "human_resources": {
+            "IcH6CZPzT9f9XNOX2AUj7geDO09V": 1
+          },
+          "marketing": {
+            "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ": 1,
+            "UDmvyAKgfsUyFLd34BWfDwyEcuFD": 1,
+            "IYCWb7y5GyBIcNzBKRqTIgm0TdKr": 1
+          },
+          "partnerships": {
+            "aY0bf55CCH1U3B2dpf1KUg6QkP89": 1,
+            "HOzveQHKlGfiDf1ns3CMRQfDtEwr": 1,
+            "th695iKVGD0V6XuBBO4ttgx1izCz": 1
+          },
+          "engineering": {
+            "fycXJkHsHukObD8p0CXo7g6zX2kS": 2,
+            "VBhWMQBWxIrbQpefM0PMWgMtUpxM": 1,
+            "zSzyR2MVf7G3JOQvhTi3owTT2RUO": 1,
+            "EGiaYNrj1RBdPTIBZa4HeQOTtO4W": 1,
+            "eLUEkiSjejfgHf1CxKtRZggXoWyu": 1,
+            "b627QSTvPfKEkBAHvVN7uQrMRAWD": 1,
+            "yxVQQnZkKqE0LRoVBuYgNgOtSkaM": 1,
+            "Rtd6KjkPKr7cW5AZMbvE8QrdJfxP": 1,
+            "ieqRHOzUTXC2REG1GCMPzg6RGtyX": 1,
+            "q9dK2WXoX3CC6B9nfAtljgGTIX32": 1
+          },
+          "all": {
+            "fycXJkHsHukObD8p0CXo7g6zX2kS": 4,
+            "LXZstH0QnNPqwpylB4s8kQxzpCCD": 2,
+            "NbHQuZTVQ02RzlScdysDzQMSLVIr": 2,
+            "ZE8dd2nWALDvRJoaWbO4OAFtkqih": 2,
+            "RjhjJnYUCiAfXFyxCHLDQQ5opPrK": 2,
+            "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q": 2,
+            "f0ZFQqgF7vgasBDWCJu8SwyqLSsQ": 2,
+            "yBWyd6PkpzZmyCjQuLX3sgBT9MUG": 1,
+            "lKmKhKackaivRHvHsHXsOAkgeRZA": 1,
+            "6nvvgL7tPTVPLCBwRqePPAmImIeK": 1
+          }
+        },
+        "top_us_employee_metros": {
+          "san francisco, california, united states": {
+            "current_headcount": 10,
+            "12_month_growth_rate": 2.3333
+          },
+          "los angeles, california, united states": {
+            "current_headcount": 2,
+            "12_month_growth_rate": 1
+          },
+          "sacramento, california, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          },
+          "chicago, illinois, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          },
+          "salt lake city, utah, united states": {
+            "current_headcount": 1,
+            "12_month_growth_rate": null
+          }
+        },
+        "dataset_version": "v30.1"
+      }
+    ],
+    "scroll_token": "1$14.684298$1941269",
+    "total": 2,
+    "dataset_version": "30.1"
+  }
